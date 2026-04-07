@@ -1,0 +1,14 @@
+site_name: Basiscursus Copilot Stad
+site_description: De interne gids en opleiding voor het gebruik van AI en Copilot.
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+
+nav:
+  - Startpagina: index.md
