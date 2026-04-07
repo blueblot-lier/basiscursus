@@ -14,3 +14,6 @@ nav:
   - Startpagina: index.md
   - Voor Medewerkers:
     - De Basisprincipes: medewerkers/basis.md
+    - Dagelijkse Taken: medewerkers/taken.md
+  - Voor Ambassadeurs:
+    - Privacy & Ethiek: ambassadeurs/privacy.md
