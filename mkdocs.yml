@@ -15,6 +15,8 @@ nav:
   - Voor Medewerkers:
     - De Basisprincipes: medewerkers/basis.md
     - Dagelijkse Taken: medewerkers/taken.md
+    - Slim Doorvragen & Finetunen: medewerkers/finetunen.md
+    - Prompts per Stadsdienst: medewerkers/diensten.md
   - Voor Ambassadeurs:
     - Jouw Rol: ambassadeurs/rol.md
     - Privacy & Ethiek: ambassadeurs/privacy.md
