@@ -12,3 +12,5 @@ theme:
 
 nav:
   - Startpagina: index.md
+  - Voor Medewerkers:
+    - De Basisprincipes: medewerkers/basis.md
