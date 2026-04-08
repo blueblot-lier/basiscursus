@@ -11,6 +11,9 @@ theme:
     - search.suggest
     - content.code.copy
 
+extra_javascript:
+  - javascripts/iframe-resize.js
+
 nav:
   - Startpagina: index.md
   - Oriëntatie:
