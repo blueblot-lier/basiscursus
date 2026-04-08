@@ -6,7 +6,7 @@ Doe deze korte Quick Scan van 2 minuten. Op basis van je antwoorden geven we je 
 
 ## Start de Scan
 
-*(Tech-tip: Hieronder plaatsen we later de 'insluitcode' van jullie eigen Microsoft Forms vragenlijst, zodat medewerkers de test veilig en direct op deze pagina kunnen invullen!)*
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=FXjZW7VQd0e5_32-eGWooZEGz8p_antJqfHo8pc9aixUNzE3NEVNSVZJUkNUUlk4VTRRUU1GNVcxNy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 <div style="border: 2px dashed #ccc; padding: 40px; text-align: center; margin: 20px 0; border-radius: 8px;">
   <strong>🚧 Hier verschijnt binnenkort de MS Forms vragenlijst 🚧</strong><br><br>
