@@ -1,29 +1,69 @@
 # Hoe werkt AI eigenlijk?
 
-Om goed met Copilot te kunnen werken, hoef je geen IT'er te zijn. Maar het is wél heel nuttig om grofweg te snappen wat er "onder de motorkap" gebeurt. Dat voorkomt namelijk een hoop frustraties!
+> **Je hoeft geen IT'er te zijn om goed met Copilot te werken. Maar wie begrijpt hoe het werkt, raakt minder snel gefrustreerd — en haalt meer uit de tool.**
 
-## Het is geen zoekmachine
-Als je iets opzoekt via een klassieke zoekmachine (zoals Google of het stadsarchief), zoekt de computer naar een *bestaand* document ergens op een server en geeft je de link. 
+Deze module legt in gewone taal uit wat er "onder de motorkap" gebeurt. En waarom AI soms dingen verzint die gewoon niet kloppen.
 
-Copilot werkt heel anders. Het is een **Generatieve AI**. Het haalt niet zomaar een bestaande tekst op, maar genereert (bedenkt en typt) ter plekke een compleet nieuw, uniek antwoord speciaal voor jou.
+---
 
-## 'Autocomplete' op steroïden
-De beste manier om AI te begrijpen, is door te kijken naar de autocorrectie of woord-voorspeller op je smartphone. 
+## Van zoekmachine naar taalmachine
 
-Copilot is eigenlijk precies dat, maar dan onvoorstelbaar groot. Het AI-model heeft tijdens zijn training miljarden teksten 'gelezen' (boeken, artikelen, websites). Het heeft daardoor geleerd hoe menselijke taal in elkaar zit. 
+Bij een klassieke zoekmachine zoals Google typ je een paar woorden, en het systeem **zoekt** een bestaand document dat daarbij past. Het resultaat bestaat al ergens op een server.
 
-Wanneer jij een vraag stelt (een prompt), berekent Copilot razendsnel: *"Wat is, op basis van alles wat ik ooit heb geleerd, statistisch gezien het meest logische volgende woord?"* En daarna rekent hij het volgende woord uit. En het volgende...
+Copilot werkt fundamenteel anders. Het **schrijft** ter plekke een nieuw antwoord, speciaal voor jouw vraag. Er is geen archief dat het doorzoekt. Het genereert altijd iets nieuws.
 
-*(Tech-tip: Wil je hier later een schema of plaatje tonen van hoe dit werkt? Dat doe je met deze code:)*
-`![Uitleg werking AI](../afbeeldingen/schema-ai.png)`
+Maar hoe dan?
 
-## Waarom gaat het soms mis? (hallucinaties)
-Omdat Copilot razendsnel rekent met kansen en taal, en niet daadwerkelijk "begrijpt" wat hij typt, kan hij de plank soms flink misslaan. Dit fenomeen noemen we **hallucineren**.
+---
 
-Als Copilot het antwoord niet weet, zal hij niet snel zijn virtuele schouders ophalen en zeggen: *"Ik weet het niet."* In plaats daarvan zal de machine proberen om zo overtuigend mogelijk een antwoord bij elkaar te puzzelen dat logisch klinkt, maar feitelijk nergens op slaat.
+## Hoe Copilot een antwoord bouwt
 
-**Daarom is dit de gouden regel:**
-Copilot is je briljante, maar soms wat overmoedige assistent. Jij bent en blijft de expert. Controleer de output **altijd** op feitelijke onjuistheden voordat je het verwerkt in een officieel stadsdocument of e-mail.
+Het proces ziet er simpel uit, maar er gaat enorm veel rekenwerk achter schuil:
 
-!!! tip "Voor ambassadeurs: Temper de verwachtingen"
-    Sommige collega's denken dat AI alwetend is. Benadruk altijd dat Copilot een hulpmiddel is om een 'eerste opzet' te maken, niet de eindversie. De menselijke ambtenaar is áltijd eindverantwoordelijk voor de tekst.
+**Stap 1 — Trainen**
+Tijdens de ontwikkeling heeft het AI-model miljarden teksten "gelezen": boeken, wetenschappelijke artikelen, websites, rapporten. Daardoor heeft het geleerd hoe taal in elkaar zit — welke woorden vaak samen voorkomen, hoe zinnen worden opgebouwd, hoe een brief verschilt van een rapport.
+
+**Stap 2 — Jouw vraag verwerken**
+Wanneer jij een prompt typt, analyseert Copilot wat je bedoelt: de context, de taak, het gewenste resultaat.
+
+**Stap 3 — Woord per woord genereren**
+Copilot berekent telkens: *"Wat is het meest logische volgende woord, gegeven alles wat ik heb geleerd én wat er al staat?"* Dat doet het razendsnel, woord na woord, tot het antwoord compleet is.
+
+> Het is dus eigenlijk de autocomplete op je smartphone — maar dan getraind op de volledige inhoud van een enorme bibliotheek, en in staat om volledige documenten te schrijven.
+
+---
+
+## Waarom gaat het soms mis?
+
+Omdat Copilot werkt op basis van **waarschijnlijkheid** — niet op basis van begrip of feitelijke kennis — kan het de plank soms volledig misslaan. Dit noemen we **hallucineren**.
+
+Copilot zegt nooit *"Ik weet het niet."* In plaats daarvan genereert het een antwoord dat **logisch klinkt** maar feitelijk nergens op slaat. En dat doet het met evenveel zelfvertrouwen als wanneer het wél gelijk heeft.
+
+### Concrete voorbeelden voor stadswerk
+
+| Situatie | Wat Copilot kan doen | Risico |
+|---|---|---|
+| Je vraagt om een samenvatting van een decreet | Verzint een artikel dat niet bestaat | Juridische fout in een officieel document |
+| Je vraagt naar een subsidieregeling | Noemt een bedrag of deadline die incorrect is | Verkeerde info naar een burger |
+| Je vraagt om een naam of contactpersoon | Verzint een naam die plausibel klinkt | Verwarring of imagoschade |
+| Je vraagt om een berekening | Rekent fout zonder het te melden | Budgetfout in een rapport |
+
+---
+
+## De gouden regel
+
+!!! warning "Controleer altijd — zonder uitzondering"
+    Copilot maakt de **eerste versie**. Jij maakt de **eindversie**.  
+    Controleer elk feit, elke datum, elk cijfer en elke wettelijke verwijzing voordat je iets verstuurt of publiceert. Jij bent als ambtenaar eindverantwoordelijk voor de inhoud — niet de tool.
+
+### Wat doe je als je twijfelt?
+
+1. **Stel een controlevraag** in dezelfde chat: *"Ben je zeker van dit antwoord? Wat is je bron?"* Copilot geeft soms zelf aan dat het onzeker is.
+2. **Verifieer via een betrouwbare bron**: de officiële wetgeving, het intranet, of een vakkundige collega.
+3. **Pas de prompt aan**: geef meer context of voeg het juiste brondocument toe zodat Copilot minder moet "raden".
+
+---
+
+!!! tip "Voor ambassadeurs: temper de verwachtingen — in beide richtingen 🦸"
+    Sommige collega's denken dat AI alwetend is en vertrouwen de output blindelings. Anderen zijn zo sceptisch dat ze de tool nooit een eerlijke kans geven.  
+    De juiste boodschap: Copilot is een **krachtige eerste stap**, geen eindproduct. Wie het zo behandelt, haalt er het meeste uit — en loopt het minste risico.
