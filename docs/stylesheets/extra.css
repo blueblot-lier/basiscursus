@@ -39,6 +39,20 @@ body, .md-content {
   background-color: #017E67;
 }
 
+/* --- Sidebar scrollbalk verwijderen --- */
+.md-sidebar {
+  height: auto !important;
+}
+
+.md-sidebar__scrollwrap {
+  overflow-y: visible !important;
+  max-height: none !important;
+}
+
+.md-sidebar__scrollwrap::-webkit-scrollbar {
+  display: none;
+}
+
 /* ============================================================
    NAVIGATIESTRUCTUUR
    ============================================================ */
