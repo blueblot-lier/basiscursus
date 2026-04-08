@@ -6,28 +6,29 @@ Doe deze korte Quick Scan van 2 minuten. Op basis van je antwoorden geven we je 
 
 ## Start de Scan
 
-<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=FXjZW7VQd0e5_32-eGWooZEGz8p_antJqfHo8pc9aixUNzE3NEVNSVZJUkNUUlk4VTRRUU1GNVcxNy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+Om privacy- en veiligheidsredenen opent de scan in een nieuw venster van je stadsaccount. Klik op de knop hieronder om te beginnen:
 
-<div style="border: 2px dashed #ccc; padding: 40px; text-align: center; margin: 20px 0; border-radius: 8px;">
-  <strong>🚧 Hier verschijnt binnenkort de MS Forms vragenlijst 🚧</strong><br><br>
-  <em>Voorbeelden van vragen die we hierin kunnen verwerken:</em><br>
-  - Heb je al eens een AI-tool zoals ChatGPT of Copilot gebruikt?<br>
-  - Ben je in je dagelijkse werk veel bezig met teksten schrijven of samenvatten?<br>
-  - Weet je wat een 'prompt' is?
+<div style="text-align: center; margin: 30px 0;">
+    <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=FXjZW7VQd0e5_32-eGWooZEGz8p_antJqfHo8pc9aixUNzE3NEVNSVZJUkNUUlk4VTRRUU1GNVcxNy4u" target="_blank" style="background-color: #3f51b5; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em; display: inline-block; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+        🚀 Start de Quick Scan
+    </a>
+    <p style="font-size: 0.8em; margin-top: 10px; color: #666;">(Opent in een nieuw tabblad)</p>
 </div>
+
+---
 
 ## Jouw Resultaat & Leerpad
 
-Na het invullen van de scan rolt er een advies uit. Je valt in één van deze drie profielen:
+Heb je de scan afgerond? Kijk dan hieronder welk pad het beste bij jouw resultaat past:
 
-### 1. De Ontdekker (Beginner)
-Je hebt nog weinig tot geen ervaring met AI. Welkom, je gaat hier veel tijd mee besparen!
-* **Jouw aanbevolen pad:** Begin rustig bij **Fase 1 (Basis)** om te begrijpen wat Copilot is, en leer daarna de basis van het 'praten met AI' in **Fase 2**.
+### 🌱 1. De Ontdekker (Beginner)
+Je bent nieuw in de wereld van AI. We nemen je bij de hand om de basis te leggen.
+* **Jouw aanbevolen pad:** Begin bij [Fase 1 - Basis](../fase1/intro.md) om te begrijpen wat AI en Copilot precies zijn.
 
-### 2. De Toepasser (Basis)
-Je hebt al eens met AI geëxperimenteerd, maar wil het nu echt slim in je dagelijkse overheidswerk integreren.
-* **Jouw aanbevolen pad:** Je mag de theorie overslaan. Duik direct in **Fase 3 (Tools)** en haal je voordeel uit de kant-en-klare spiekbriefjes voor jouw specifieke stadsdienst in **Fase 4**.
+### 🚀 2. De Toepasser (Basis)
+Je hebt al wat ervaring, maar wil Copilot nu echt slim gaan gebruiken in je dagelijkse programma's.
+* **Jouw aanbevolen pad:** Je mag de introductie overslaan en direct duiken in [Fase 3 - Tools](../fase3/outlook.md).
 
-### 3. De Expert (Gevorderd)
-Je kent de 'Magische Driehoek' uit je hoofd en gebruikt Copilot al regelmatig voor complexe taken.
-* **Jouw aanbevolen pad:** Ga meteen naar **Fase 5 (Verdieping)** voor het bouwen van automatische workflows, of blader door de **Promptbibliotheek** om je eigen prompts nog scherper te maken.
+### 🦸‍♀️ 3. De Expert (Gevorderd)
+Je bent een ervaren gebruiker en zoekt naar diepere automatisering en complexe prompts.
+* **Jouw aanbevolen pad:** Ga meteen naar [Fase 5 - Verdieping](../fase5/gevorderd.md) voor de technieken voor gevorderden.
