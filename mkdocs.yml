@@ -27,7 +27,6 @@ extra_css:
 nav:
   - Startpagina: index.md
   - Oriëntatie:
-    - orientatie/index.md
     - Over de cursus: orientatie/over.md
     - Aan de slag: orientatie/toegang.md
     - Quick scan: orientatie/quickscan.md
