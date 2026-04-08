@@ -17,6 +17,7 @@ nav:
   - Startpagina: index.md
   - Oriëntatie:
     - Over de cursus: orientatie/over.md
+    - Toegang: orientatie/toegang.md
     - Quick scan: orientatie/quickscan.md
   - Fase 1 - Basis:
     - Intro tot AI & Copilot: fase1/intro.md
