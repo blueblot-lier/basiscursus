@@ -1,4 +1,4 @@
-# Over de Cursus
+# Over de cursus
 
 Welkom bij de Copilot Academy van de stad! Deze leeromgeving is ontworpen om jou te helpen slim, veilig en efficiënt te werken met Microsoft Copilot.
 
@@ -11,7 +11,7 @@ Deze cursus is voor **alle stadsmedewerkers**. Of je nu aan het loket bij Burger
 *(Ben jij een van onze AI-Ambassadeurs? Let dan in de modules op de speciale uitgelichte tips voor jouw rol!)*
 
 ## Wat kan je na afloop?
-Aan het einde van deze Academy kun jij:
+Aan het einde van deze cursus kun jij:
 * Uitleggen wat Copilot is en hoe het "denkt".
 * Zelf ijzersterke opdrachten (prompts) schrijven via de 'Magische Driehoek'.
 * Copilot naadloos inzetten in bekende programma's zoals Word, Teams en Outlook.

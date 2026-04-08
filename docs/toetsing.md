@@ -1,10 +1,10 @@
-# Toetsing: Test je Kennis
+# Toetsing: test je kennis
 
 Gefeliciteerd! Je hebt alle theorie, veiligheidsvoorschriften en praktijkopdrachten van de Basiscursus Copilot doorlopen. Voordat je jezelf officieel een 'Copilot Pro' van de stad mag noemen, is het tijd om je kennis even kort te testen.
 
 In deze eindtoets controleren we of je de belangrijkste concepten (zoals de Magische Driehoek en onze strenge privacyregels) goed in de vingers hebt.
 
-## Start de Eindtoets
+## Start de eindtoets
 
 *(Tech-tip: Hier plaatsen we later de 'insluitcode' van jullie MS Forms quiz, net zoals we bij de Quick Scan hebben voorbereid!)*
 

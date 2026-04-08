@@ -17,7 +17,7 @@ Wanneer jij een vraag stelt (een prompt), berekent Copilot razendsnel: *"Wat is,
 *(Tech-tip: Wil je hier later een schema of plaatje tonen van hoe dit werkt? Dat doe je met deze code:)*
 `![Uitleg werking AI](../afbeeldingen/schema-ai.png)`
 
-## Waarom gaat het soms mis? (Hallucinaties)
+## Waarom gaat het soms mis? (hallucinaties)
 Omdat Copilot razendsnel rekent met kansen en taal, en niet daadwerkelijk "begrijpt" wat hij typt, kan hij de plank soms flink misslaan. Dit fenomeen noemen we **hallucineren**.
 
 Als Copilot het antwoord niet weet, zal hij niet snel zijn virtuele schouders ophalen en zeggen: *"Ik weet het niet."* In plaats daarvan zal de machine proberen om zo overtuigend mogelijk een antwoord bij elkaar te puzzelen dat logisch klinkt, maar feitelijk nergens op slaat.
@@ -25,5 +25,5 @@ Als Copilot het antwoord niet weet, zal hij niet snel zijn virtuele schouders op
 **Daarom is dit de gouden regel:**
 Copilot is je briljante, maar soms wat overmoedige assistent. Jij bent en blijft de expert. Controleer de output **altijd** op feitelijke onjuistheden voordat je het verwerkt in een officieel stadsdocument of e-mail.
 
-!!! tip "Voor Ambassadeurs 🦸‍♂️: Temper de verwachtingen"
+!!! tip "Voor ambassadeurs: Temper de verwachtingen"
     Sommige collega's denken dat AI alwetend is. Benadruk altijd dat Copilot een hulpmiddel is om een 'eerste opzet' te maken, niet de eindversie. De menselijke ambtenaar is áltijd eindverantwoordelijk voor de tekst.

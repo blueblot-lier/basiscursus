@@ -1,8 +1,8 @@
-# Dagelijkse Taken Automatiseren
+# Dagelijkse taken automatiseren
 
 Waarom het wiel opnieuw uitvinden? Hieronder vind je 'spiekbriefjes' voor veelvoorkomende taken. Kopieer de prompts, vul de gaten in (de tekst tussen haakjes), en laat Copilot het zware werk doen.
 
-## 1. Vergaderingen en Notulen
+## 1. Vergaderingen en notulen
 **Het probleem:** Lange overleggen resulteren vaak in rommelige notities, en het uitwerken kost enorm veel tijd.
 **De prompt:**
 > "Je bent een administratief medewerker van de stad. Hieronder staan mijn ruwe notities van het afdelingsoverleg. Maak hier een professioneel verslag van. Verdeel het in 1) Besproken punten, 2) Beslissingen, en 3) Een actielijst met wie wat doet. 

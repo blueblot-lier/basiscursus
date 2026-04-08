@@ -1,4 +1,4 @@
-# Welkom bij de Basiscursus Copilot
+# Welkom bij de basiscursus Copilot
 
 Deze cursus helpt medewerkers van de stad en onze AI-ambassadeurs om slim, veilig en efficiënt te werken met Microsoft Copilot.
 

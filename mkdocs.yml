@@ -16,13 +16,13 @@ extra_javascript:
 nav:
   - Startpagina: index.md
   - Oriëntatie:
-    - Over de Cursus: orientatie/over.md
-    - Quick Scan: orientatie/quickscan.md
+    - Over de cursus: orientatie/over.md
+    - Quick scan: orientatie/quickscan.md
   - Fase 1 - Basis:
     - Intro tot AI & Copilot: fase1/intro.md
     - Hoe AI werkt: fase1/werking.md
   - Fase 2 - Vaardigheden:
-    - Leren Prompten: fase2/prompten.md
+    - Leren prompten: fase2/prompten.md
   - Fase 3 - Tools:
     - Outlook: fase3/outlook.md
     - Word: fase3/word.md
@@ -30,13 +30,13 @@ nav:
     - Excel: fase3/excel.md
     - PowerPoint: fase3/powerpoint.md
   - Fase 4 - Toepassing:
-    - Dagelijkse Taken: fase4/taken.md
-    - Use Cases per Dienst: fase4/diensten.md
+    - Dagelijkse taken: fase4/taken.md
+    - Use cases per dienst: fase4/diensten.md
   - Fase 5 - Verdieping:
-    - Gevorderd Gebruik: fase5/gevorderd.md
-  - Veilig & Verantwoord:
-    - Kwaliteit & Controle: veiligheid/kwaliteit.md
+    - Gevorderd gebruik: fase5/gevorderd.md
+  - Veilig & verantwoord:
+    - Kwaliteit & controle: veiligheid/kwaliteit.md
     - Privacy & GDPR: veiligheid/privacy.md
-  - Praktijk & Oefeningen: praktijk.md
+  - Praktijk & oefeningen: praktijk.md
   - Toetsing: toetsing.md
-  - Ondersteuning & Beleid: ondersteuning.md
+  - Ondersteuning & beleid: ondersteuning.md

@@ -1,8 +1,8 @@
-# Copilot in Word: Nooit meer een Lege Pagina
+# Copilot in Word:nooit meer een lege pagina
 
 Word is de plek waar Copilot echt kan schitteren als je tekstschrijver en redacteur. Het helpt je de drempel van de knipperende cursor op een leeg, wit vel te overwinnen.
 
-## 1. Een eerste opzet genereren (Drafting)
+## 1. Een eerste opzet genereren (drafting)
 Je moet een beleidsnota of een bewonersbrief schrijven, maar weet niet hoe te beginnen.
 * **Hoe:** Open een leeg document. Copilot verschijnt direct in beeld met de vraag: *"Beschrijf wat u wilt schrijven"*.
 * **Concrete taak:** *"Schrijf een eerste opzet voor een bewonersbrief over de heraanleg van het speelplein in de wijk. Noem dat de werken starten op 1 mei en ongeveer drie weken duren. Gebruik een enthousiaste toon."*

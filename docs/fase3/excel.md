@@ -1,4 +1,4 @@
-# Copilot in Excel: Data zonder Hoofdpijn
+# Copilot in Excel: data zonder hoofdpijn
 
 *Let op: Copilot in Excel is momenteel alleen beschikbaar in het Engels en vereist dat je data is opgemaakt als een officiële 'Tabel'.*
 

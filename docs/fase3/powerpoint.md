@@ -1,4 +1,4 @@
-# Copilot in PowerPoint: Razendsnel Presenteren
+# Copilot in PowerPoint: razendsnel presenteren
 
 Een presentatie maken voor het schepencollege of een bewonersavond kost veel tijd. Copilot helpt je om de basis razendsnel op te zetten.
 
