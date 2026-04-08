@@ -8,14 +8,6 @@ Doe deze korte Quick Scan van 2 minuten. Op basis van je antwoorden geven we je 
 
 <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=FXjZW7VQd0e5_32-eGWooZEGz8p_antJqfHo8pc9aixUNzE3NEVNSVZJUkNUUlk4VTRRUU1GNVcxNy4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
-<div style="border: 2px dashed #ccc; padding: 40px; text-align: center; margin: 20px 0; border-radius: 8px;">
-  <strong>🚧 Hier verschijnt binnenkort de MS Forms vragenlijst 🚧</strong><br><br>
-  <em>Voorbeelden van vragen die we hierin kunnen verwerken:</em><br>
-  - Heb je al eens een AI-tool zoals ChatGPT of Copilot gebruikt?<br>
-  - Ben je in je dagelijkse werk veel bezig met teksten schrijven of samenvatten?<br>
-  - Weet je wat een 'prompt' is?
-</div>
-
 ## Jouw Resultaat & Leerpad
 
 Na het invullen van de scan rolt er een advies uit. Je valt in één van deze drie profielen:
