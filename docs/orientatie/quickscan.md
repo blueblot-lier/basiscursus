@@ -1,6 +1,6 @@
 # Quick scan: ontdek jouw AI-niveau
 
-Weet je niet goed waar je in deze brede cursus moet beginnen? Geen probleem! Iedereen start op zijn eigen niveau en tempo. 
+Weet je niet goed waar je in deze brede cursus moet beginnen? Geen probleem! Iedereen start op zijn eigen niveau en tempo.
 
 Doe deze korte Quick Scan van 2 minuten. Op basis van je antwoorden geven we je direct een advies voor jouw ideale leerpad.
 
@@ -12,14 +12,20 @@ Doe deze korte Quick Scan van 2 minuten. Op basis van je antwoorden geven we je 
 
 Na het invullen van de scan rolt er een advies uit. Je valt in één van deze drie profielen:
 
-### 1. de ontdekker (beginner)
+### 1. De ontdekker (beginner)
+
 Je hebt nog weinig tot geen ervaring met AI. Welkom, je gaat hier veel tijd mee besparen!
-* **Jouw aanbevolen pad:** Begin rustig bij **Fase 1 (Basis)** om te begrijpen wat Copilot is, en leer daarna de basis van het 'praten met AI' in **Fase 2**.
 
-### 2. de toepasser (basis)
+- **Jouw aanbevolen pad:** Begin rustig bij **Fase 1 (Basis)** om te begrijpen wat Copilot is, en leer daarna hoe je goede opdrachten schrijft via het **S.T.A.R.T.-framework** in **Fase 2**.
+
+### 2. De toepasser (basis)
+
 Je hebt al eens met AI geëxperimenteerd, maar wil het nu echt slim in je dagelijkse overheidswerk integreren.
-* **Jouw aanbevolen pad:** Je mag de theorie overslaan. Duik direct in **Fase 3 (Tools)** en haal je voordeel uit de kant-en-klare spiekbriefjes voor jouw specifieke stadsdienst in **Fase 4**.
 
-### 3. de expert (gevorderd)
-Je kent de 'Magische Driehoek' uit je hoofd en gebruikt Copilot al regelmatig voor complexe taken.
-* **Jouw aanbevolen pad:** Ga meteen naar **Fase 5 (Verdieping)** voor het bouwen van automatische workflows, of blader door de **Promptbibliotheek** om je eigen prompts nog scherper te maken.
+- **Jouw aanbevolen pad:** Je mag de theorie overslaan. Duik direct in **Fase 3 (Tools)** en haal je voordeel uit de kant-en-klare spiekbriefjes voor jouw specifieke stadsdienst in **Fase 4**.
+
+### 3. De expert (gevorderd)
+
+Je kent het **S.T.A.R.T.-framework** uit je hoofd en gebruikt Copilot al regelmatig voor complexe taken.
+
+- **Jouw aanbevolen pad:** Ga meteen naar **Fase 5 (Verdieping)** voor het bouwen van automatische workflows, of blader door de **Promptbibliotheek** om je eigen prompts nog scherper te maken.
