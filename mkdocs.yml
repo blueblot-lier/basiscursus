@@ -1,23 +1,32 @@
 site_name: Basiscursus Copilot Stad
-site_description: De interne gids en opleiding voor het gebruik van AI en Copilot.
+site_url: https://blueblot-lier.github.io/basiscursus/
+
 theme:
   name: material
+  language: nl
+  font:
+    text: Nunito
+    code: Roboto Mono
   palette:
-    primary: indigo
-    accent: blue
+    - scheme: default
+      primary: custom
+      accent: custom
   features:
+    - navigation.tabs
+    - navigation.sections
     - navigation.top
+    - search.highlight
     - search.suggest
     - content.code.copy
 
-extra_javascript:
-  - javascripts/iframe-resize.js
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - Startpagina: index.md
   - Oriëntatie:
     - Over de cursus: orientatie/over.md
-    - Toegang: orientatie/toegang.md
+    - Aan de slag: orientatie/toegang.md
     - Quick scan: orientatie/quickscan.md
   - Fase 1 - Basis:
     - Intro tot AI & Copilot: fase1/intro.md
@@ -41,3 +50,7 @@ nav:
   - Praktijk & oefeningen: praktijk.md
   - Toetsing: toetsing.md
   - Ondersteuning & beleid: ondersteuning.md
+
+plugins:
+  - search:
+      lang: nl

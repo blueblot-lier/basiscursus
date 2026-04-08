@@ -1,0 +1,128 @@
+/* ============================================================
+   Stad Lier — huisstijl voor MkDocs Material
+   Primair:  #017E67
+   Donker:   #212529
+   Accent:   #015a4a
+   Fonts:    Nunito (tekst), Lora (koppen)
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@600;700&family=Nunito:wght@400;600;700&display=swap');
+
+/* --- Kleurvariabelen --- */
+:root {
+  --md-primary-fg-color:        #017E67;
+  --md-primary-fg-color--light: #019e82;
+  --md-primary-fg-color--dark:  #015a4a;
+  --md-accent-fg-color:         #017E67;
+  --md-default-fg-color:        #212529;
+}
+
+/* --- Koppen in Lora --- */
+h1, h2, h3, h4 {
+  font-family: 'Lora', Georgia, serif;
+  color: #212529;
+}
+
+h1 {
+  color: #017E67;
+  border-bottom: 2px solid #017E67;
+  padding-bottom: 0.3em;
+}
+
+/* --- Bodytekst in Nunito --- */
+body, .md-content {
+  font-family: 'Nunito', sans-serif;
+}
+
+/* --- Navigatiebalk --- */
+.md-header {
+  background-color: #017E67;
+}
+
+.md-tabs {
+  background-color: #015a4a;
+}
+
+/* --- Actieve navigatielink --- */
+.md-nav__link--active,
+.md-nav__link:hover {
+  color: #017E67 !important;
+  font-weight: 700;
+}
+
+/* --- Admonition: tip --- */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-left-color: #017E67;
+}
+
+.md-typeset .admonition.tip > .admonition-title,
+.md-typeset details.tip > summary {
+  background-color: #e6f4f1;
+  color: #017E67;
+}
+
+/* --- Admonition: warning --- */
+.md-typeset .admonition.warning,
+.md-typeset details.warning {
+  border-left-color: #e67e22;
+}
+
+/* --- Admonition: info --- */
+.md-typeset .admonition.info,
+.md-typeset details.info {
+  border-left-color: #017E67;
+}
+
+.md-typeset .admonition.info > .admonition-title,
+.md-typeset details.info > summary {
+  background-color: #e6f4f1;
+  color: #015a4a;
+}
+
+/* --- Codeblokken --- */
+.md-typeset code {
+  background-color: #f0f7f5;
+  color: #015a4a;
+  border-radius: 4px;
+}
+
+/* --- Tabel header --- */
+.md-typeset table thead {
+  background-color: #017E67;
+  color: #ffffff;
+}
+
+.md-typeset table thead th {
+  color: #ffffff;
+}
+
+/* --- Tabel rijen afwisselend --- */
+.md-typeset table tr:nth-child(even) {
+  background-color: #f0f7f5;
+}
+
+/* --- Knop "Terug naar boven" --- */
+.md-top {
+  background-color: #017E67;
+  color: #ffffff;
+}
+
+/* --- Footer --- */
+.md-footer {
+  background-color: #212529;
+}
+
+/* --- Zoekbalk highlight --- */
+.md-search__input:focus {
+  border-color: #017E67;
+}
+
+/* --- Blockquote --- */
+.md-typeset blockquote {
+  border-left: 4px solid #017E67;
+  background-color: #f0f7f5;
+  padding: 0.6em 1em;
+  border-radius: 0 4px 4px 0;
+  color: #212529;
+}
