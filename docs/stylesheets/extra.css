@@ -39,16 +39,52 @@ body, .md-content {
   background-color: #017E67;
 }
 
-.md-tabs {
-  background-color: #015a4a;
+/* ============================================================
+   NAVIGATIESTRUCTUUR — sectietitels vs. paginalinks
+   ============================================================ */
+
+/* Sectietitels: groter, vetter, merkkleur, wat lucht erboven */
+.md-nav--primary .md-nav__title,
+.md-nav__item--section > .md-nav__link {
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #017E67 !important;
+  margin-top: 1.2em;
+  padding-left: 0.6rem;
 }
 
-/* --- Actieve navigatielink --- */
-.md-nav__link--active,
-.md-nav__link:hover {
+/* Subpagina's: inspringen + subtiele linkerbalk */
+.md-nav__item--section .md-nav .md-nav__link {
+  padding-left: 1.1rem;
+  border-left: 2px solid #d0ece7;
+  margin-left: 0.6rem;
+  font-size: 0.85rem;
+  color: #212529;
+}
+
+/* Subpagina's: hover-effect */
+.md-nav__item--section .md-nav .md-nav__link:hover {
+  border-left-color: #017E67;
+  color: #017E67 !important;
+  background-color: #f0f7f5;
+  border-radius: 0 4px 4px 0;
+}
+
+/* Actieve pagina: groene balk + groene tekst */
+.md-nav__item--section .md-nav .md-nav__link--active {
+  border-left: 3px solid #017E67 !important;
   color: #017E67 !important;
   font-weight: 700;
+  background-color: #e6f4f1;
+  border-radius: 0 4px 4px 0;
 }
+
+/* ============================================================
+   REST VAN DE STIJL
+   ============================================================ */
 
 /* --- Admonition: tip --- */
 .md-typeset .admonition.tip,
@@ -111,11 +147,6 @@ body, .md-content {
 /* --- Footer --- */
 .md-footer {
   background-color: #212529;
-}
-
-/* --- Zoekbalk highlight --- */
-.md-search__input:focus {
-  border-color: #017E67;
 }
 
 /* --- Blockquote --- */
