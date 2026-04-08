@@ -1,24 +1,67 @@
 # Introductie: wat is AI en wat is Copilot?
 
-Welkom bij je eerste stappen in de wereld van Artificiële Intelligentie (AI)! Misschien klinkt de term 'AI' nog als iets uit een sciencefictionfilm, maar eigenlijk is het een heel praktisch hulpmiddel dat je werk een stuk makkelijker gaat maken.
+> **AI klinkt misschien als sciencefiction, maar het is gewoon een heel praktisch hulpmiddel — ingebouwd in de tools die je al elke dag gebruikt.**
+
+In deze module leggen we uit wat generatieve AI is, wat Microsoft Copilot precies doet, en waarom het veilig is om het te gebruiken als stadsmedewerker. Geen technische diepgang, wel alles wat je nodig hebt om met vertrouwen te starten.
+
+---
 
 ## Wat is generatieve AI?
-Je kent vast de functie op je smartphone die tijdens het typen alvast het volgende woord voorspelt. Generatieve AI (zoals ChatGPT) is eigenlijk precies dat, maar dan een miljoen keer slimmer. 
 
-Het is **geen Google of zoekmachine**. Het zoekt niet ergens een kant-en-klaar document op om aan jou te geven. Het is een 'taal-machine' die, op basis van jouw vraag, razendsnel berekent welk woord logischerwijs na het andere woord moet komen om een compleet nieuwe, unieke tekst te vormen. 
+Je kent de functie op je smartphone die tijdens het typen alvast het volgende woord voorspelt. Generatieve AI is eigenlijk precies dat — maar dan op een schaal die nauwelijks voor te stellen is.
 
-## En wat is Copilot dan?
-Microsoft Copilot is simpel gezegd **jouw persoonlijke, veilige versie van AI**. 
+Het systeem heeft tijdens zijn training **miljarden teksten gelezen**: boeken, artikelen, rapporten, websites. Op basis daarvan heeft het geleerd hoe menselijke taal in elkaar zit. Wanneer jij een vraag stelt, berekent het razendsnel welk woord het meest logisch volgt — en daarna het volgende, en het volgende, tot er een volledig antwoord staat.
 
-Waar openbare systemen zoals de gratis ChatGPT jouw ingevoerde gegevens soms gebruiken om zichzelf te trainen (wat een privacydrama is voor een stadsbestuur!), doet Copilot dat nadrukkelijk niet. Alles wat je in Copilot typt, blijft veilig binnen de afgeschermde kluis van onze stad. Bovendien zit Copilot direct ingebouwd in de programma's die je al elke dag gebruikt, zoals Word, Teams, Excel en Outlook.
+!!! warning "Belangrijk verschil met Google"
+    Een zoekmachine **zoekt** een bestaand document en geeft je de link. Generatieve AI **schrijft** ter plekke een nieuw, uniek antwoord speciaal voor jou. Het haalt niets op uit een archief — het genereert altijd nieuwe tekst. Dat maakt het krachtig, maar ook: je moet de output altijd controleren.
+
+---
+
+## Wat is Copilot?
+
+Microsoft Copilot is de AI-assistent van Microsoft, ingebouwd in de tools die jij al dagelijks gebruikt: Word, Outlook, Teams, Excel en PowerPoint.
+
+Maar er is een cruciaal verschil met publieke tools zoals de gratis versie van ChatGPT:
+
+| | Gratis ChatGPT | Microsoft Copilot (werk) |
+|---|---|---|
+| **Waar draait het?** | Publieke servers van OpenAI | Beveiligde Microsoft-omgeving van de stad |
+| **Wat gebeurt er met jouw input?** | Kan gebruikt worden voor training | Wordt **nooit** gebruikt voor training |
+| **Wie heeft toegang tot jouw data?** | OpenAI | Enkel jouw organisatie |
+| **Integratie met je werktools?** | Niet standaard | Ingebouwd in Word, Outlook, Teams... |
+| **Geschikt voor stadswerk?** | ❌ Nee | ✅ Ja |
+
+Kort samengevat: **alles wat je in Copilot typt, blijft binnen de beveiligde omgeving van de stad.** Dat is de afspraak die de stad heeft gemaakt met Microsoft.
+
+---
 
 ## Ontmoet je nieuwe digitale stagiair
-De beste manier om naar Copilot te kijken, is alsof je net een nieuwe, briljante stagiair hebt aangenomen:
 
-* **Hij is razendsnel:** Hij kan in seconden een boekwerk samenvatten of een eerste opzet voor een beleidsstuk schrijven.
-* **Hij heeft geen vrees voor de 'lege pagina':** Ideaal om mee te brainstormen of als je even vastloopt met een moeilijke e-mail.
-* **Maar... hij heeft sturing nodig:** Als jij een vage opdracht geeft ("Schrijf een brief over het park"), krijg je een vaag resultaat. Je moet hem voeden met context en een duidelijk doel.
-* **Jij blijft de baas:** Een stagiair maakt soms een foutje of slaat de plank mis qua toon. Jij, als menselijke professional, moet het werk **altijd controleren** voordat je het verstuurt of publiceert.
+De beste manier om naar Copilot te kijken, is als een **briljante maar prille stagiair** die net gestart is:
 
-!!! tip "Voor ambassadeurs: Gebruik de stagiair-metafoor!"
-    Als je een collega helpt die gefrustreerd is over een antwoord van Copilot, vraag dan: *"Als je dit letterlijk aan een stagiair op zijn eerste werkdag had gevraagd, had hij het dan begrepen?"* Meestal beseft de collega dan dat hun eigen vraag (de prompt) eigenlijk te kort of te vaag was.
+| Eigenschap | Wat het betekent in de praktijk |
+|---|---|
+| 🚀 **Razendsnel** | Samenvat een rapport van 40 pagina's in dertig seconden |
+| 💡 **Geen lege-paginaangst** | Ideaal als je vastloopt met een moeilijke e-mail of een eerste opzet nodig hebt |
+| 🎯 **Heeft sturing nodig** | Vage opdracht = vaag resultaat. Geef context, een duidelijke taak en een gewenst formaat |
+| ✅ **Jij blijft eindverantwoordelijk** | Controleer altijd de output voordat je iets verstuurt of publiceert |
+
+> *"Schrijf een brief over het park."*  
+> Dit is wat een stagiair op zijn eerste dag krijgt — en het resultaat zal teleurstellen.  
+> Geef hem meer: over welk park, voor welke inwoners, met welk doel, in welke toon.  
+> **Dat is exact wat het S.T.A.R.T.-framework in Fase 2 je leert.**
+
+---
+
+## Wat kan Copilot wel en niet?
+
+| Copilot kan... | Copilot kan niet... |
+|---|---|
+| Teksten schrijven, herschrijven en samenvatten | Zelfstandig beslissingen nemen |
+| Brainstormen en ideeën genereren | Interne systemen raadplegen (tenzij gekoppeld) |
+| Vergaderingen samenvatten (via Teams) | Garanderen dat alle feiten correct zijn |
+| Vertalen en toon aanpassen | Persoonsgegevens van burgers opzoeken |
+| Formules uitleggen in Excel | Juridische of medische adviezen geven |
+
+!!! tip "Voor ambassadeurs: gebruik de stagiair-metafoor 🦸"
+    Heeft een collega een tegenvallend antwoord van Copilot? Vraag dan: *"Als je dit letterlijk aan een stagiair op zijn eerste werkdag had gevraagd, had hij het dan begrepen?"* Negen van de tien keer beseft de collega zelf dat de vraag te vaag of te kort was. Zo verschuift de frustratie van de tool naar de aanpak — en dát is precies wat je wil.
