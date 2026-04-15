@@ -1,0 +1,1987 @@
+
+<!doctype html>
+<html lang="nl" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://blueblot-lier.github.io/basiscursus/fase2/prompten/">
+      
+      
+        <link rel="prev" href="../../fase1/werking/">
+      
+      
+        <link rel="next" href="../../fase3/outlook/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Leren prompten - Basiscursus Copilot Stad</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Nunito";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#leren-prompten-het-start-framework" class="md-skip">
+          Ga naar inhoud
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Basiscursus Copilot Stad" class="md-header__button md-logo" aria-label="Basiscursus Copilot Stad" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Basiscursus Copilot Stad
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Leren prompten
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Zoeken" placeholder="Zoeken" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Zoeken">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Leegmaken" aria-label="Leegmaken" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Zoeken initialiseren
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigatie" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Basiscursus Copilot Stad" class="md-nav__button md-logo" aria-label="Basiscursus Copilot Stad" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Basiscursus Copilot Stad
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Startpagina
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Oriëntatie
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Oriëntatie
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../orientatie/over/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Over de cursus
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../orientatie/toegang/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aan de slag
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../orientatie/quickscan/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Quick scan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 1 - Basis
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fase 1 - Basis
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fase1/intro/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Intro tot AI & Copilot
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fase1/werking/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hoe AI werkt
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 2 - Vaardigheden
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fase 2 - Vaardigheden
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Leren prompten
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Leren prompten
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#het-start-framework-in-een-oogopslag" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Het S.T.A.R.T.-framework in één oogopslag
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#de-vijf-bouwstenen-uitgelegd" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        De vijf bouwstenen uitgelegd
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="De vijf bouwstenen uitgelegd">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#s-situatie" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        S — Situatie
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#t-taak" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        T — Taak
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a-aandachtspunten" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A — Aandachtspunten
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#r-resultaat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        R — Resultaat
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#t-toon" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        T — Toon
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#van-slecht-naar-goed-een-volledig-voorbeeld" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Van slecht naar goed: een volledig voorbeeld
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Van slecht naar goed: een volledig voorbeeld">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#zonder-start" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ❌ Zonder S.T.A.R.T.
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#met-start" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✅ Met S.T.A.R.T.
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#meer-voorbeelden-uit-de-dagelijkse-praktijk" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Meer voorbeelden uit de dagelijkse praktijk
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Meer voorbeelden uit de dagelijkse praktijk">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kcc-regelgeving-uitleggen-aan-een-klant" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        KCC — Regelgeving uitleggen aan een klant
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#communicatie-persbericht-naar-sociale-media" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Communicatie — Persbericht naar sociale media
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hr-vacaturetekst-aantrekkelijker-maken" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        HR — Vacaturetekst aantrekkelijker maken
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#technisch-uitvoerende-diensten-tud-bewonersbrief-over-werken-in-de-straat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Technisch uitvoerende diensten (TUD) — Bewonersbrief over werken in de straat
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#veelgemaakte-fouten" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Veelgemaakte fouten
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#het-spiekbriefje" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Het spiekbriefje
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wat-als-het-antwoord-niet-goed-genoeg-is" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Wat als het antwoord niet goed genoeg is?
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 3 - Tools
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fase 3 - Tools
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fase3/outlook/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Outlook
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fase3/word/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Word
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fase3/teams/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Teams
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fase3/excel/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Excel
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fase3/powerpoint/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    PowerPoint
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 4 - Toepassing
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fase 4 - Toepassing
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fase4/taken/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Dagelijkse taken
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fase4/diensten/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Use cases per team
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Fase 5 - Verdieping
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Fase 5 - Verdieping
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../fase5/gevorderd/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Gevorderd gebruik
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Veilig & verantwoord
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Veilig & verantwoord
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../veiligheid/kwaliteit/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kwaliteit & controle
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../veiligheid/privacy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Privacy & GDPR
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../praktijk/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Praktijk & oefeningen
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../toetsing/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Toetsing
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ondersteuning/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Ondersteuning & beleid
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#het-start-framework-in-een-oogopslag" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Het S.T.A.R.T.-framework in één oogopslag
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#de-vijf-bouwstenen-uitgelegd" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        De vijf bouwstenen uitgelegd
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="De vijf bouwstenen uitgelegd">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#s-situatie" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        S — Situatie
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#t-taak" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        T — Taak
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a-aandachtspunten" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A — Aandachtspunten
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#r-resultaat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        R — Resultaat
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#t-toon" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        T — Toon
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#van-slecht-naar-goed-een-volledig-voorbeeld" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Van slecht naar goed: een volledig voorbeeld
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Van slecht naar goed: een volledig voorbeeld">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#zonder-start" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ❌ Zonder S.T.A.R.T.
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#met-start" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        ✅ Met S.T.A.R.T.
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#meer-voorbeelden-uit-de-dagelijkse-praktijk" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Meer voorbeelden uit de dagelijkse praktijk
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Meer voorbeelden uit de dagelijkse praktijk">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#kcc-regelgeving-uitleggen-aan-een-klant" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        KCC — Regelgeving uitleggen aan een klant
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#communicatie-persbericht-naar-sociale-media" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Communicatie — Persbericht naar sociale media
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hr-vacaturetekst-aantrekkelijker-maken" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        HR — Vacaturetekst aantrekkelijker maken
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#technisch-uitvoerende-diensten-tud-bewonersbrief-over-werken-in-de-straat" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Technisch uitvoerende diensten (TUD) — Bewonersbrief over werken in de straat
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#veelgemaakte-fouten" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Veelgemaakte fouten
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#het-spiekbriefje" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Het spiekbriefje
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wat-als-het-antwoord-niet-goed-genoeg-is" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Wat als het antwoord niet goed genoeg is?
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="leren-prompten-het-start-framework">Leren prompten: het S.T.A.R.T.-framework</h1>
+<blockquote>
+<p><strong>De kwaliteit van je antwoord begint bij de kwaliteit van je vraag. Garbage in = garbage out.</strong></p>
+</blockquote>
+<p>Een goede opdracht geven aan Copilot noemen we <strong>prompten</strong>. Het is de meest waardevolle vaardigheid van deze hele cursus — want zelfs de beste AI-tool levert niets bruikbaars op als je hem niet de juiste richting geeft.</p>
+<p>Het goede nieuws: er is een vaste formule. Wie het <strong>S.T.A.R.T.-framework</strong> toepast, krijgt elke keer een bruikbaar resultaat.</p>
+<hr />
+<h2 id="het-start-framework-in-een-oogopslag">Het S.T.A.R.T.-framework in één oogopslag</h2>
+<table>
+<thead>
+<tr>
+<th>Letter</th>
+<th>Staat voor</th>
+<th>De vraag die je jezelf stelt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>S</strong></td>
+<td>Situatie</td>
+<td>Wie ben ik, en wat is de context?</td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td>Taak</td>
+<td>Wat moet Copilot exact doen?</td>
+</tr>
+<tr>
+<td><strong>A</strong></td>
+<td>Aandachtspunten</td>
+<td>Wat moet Copilot weten of vermijden?</td>
+</tr>
+<tr>
+<td><strong>R</strong></td>
+<td>Resultaat</td>
+<td>Hoe moet de output eruitzien?</td>
+</tr>
+<tr>
+<td><strong>T</strong></td>
+<td>Toon</td>
+<td>Hoe moet het klinken?</td>
+</tr>
+</tbody>
+</table>
+<p>Je hoeft de vijf elementen niet altijd in die volgorde te typen — maar hoe meer je er invult, hoe beter het resultaat. <strong>S, T en R zijn het absolute minimum.</strong> De A en de tweede T tillen je prompt van goed naar uitstekend.</p>
+<hr />
+<h2 id="de-vijf-bouwstenen-uitgelegd">De vijf bouwstenen uitgelegd</h2>
+<h3 id="s-situatie">S — Situatie</h3>
+<p><em>Wie ben jij, en wat is de context?</em></p>
+<p>Copilot weet niet dat jij voor de stad werkt, bij welk team je hoort of wie je doelgroep is. Schets de situatie kort maar concreet.</p>
+<blockquote>
+<p><em>"Ik ben medewerker bij team milieu van de stad Lier. We bereiden de jaarlijkse GFT-campagne voor."</em></p>
+</blockquote>
+<hr />
+<h3 id="t-taak">T — Taak</h3>
+<p><em>Wat moet Copilot exact doen?</em></p>
+<p>Dit is de kern van je prompt. "Schrijf een tekst" is te vaag. Zeg wát er geschreven moet worden, over welk onderwerp en met welk doel.</p>
+<blockquote>
+<p><em>"Schrijf een bewonersbrief die uitlegt waarom plastic zakjes niet in de groene bak mogen."</em></p>
+</blockquote>
+<hr />
+<h3 id="a-aandachtspunten">A — Aandachtspunten</h3>
+<p><em>Wat moet Copilot zeker weten of vermijden?</em></p>
+<p>Dit is de plek voor beperkingen, randvoorwaarden en extra context. Denk aan: doelgroep, wetgeving, wat er absoluut niet in mag, of wat er al bestaat.</p>
+<blockquote>
+<p><em>"Vermijd technisch jargon. Geen verwijzingen naar boetes — we willen overtuigen, niet bestraffen. De nieuwe regels gelden vanaf 1 september."</em></p>
+</blockquote>
+<hr />
+<h3 id="r-resultaat">R — Resultaat</h3>
+<p><em>Hoe moet de output eruitzien?</em></p>
+<p>Geef aan welk formaat je verwacht. Copilot raadt dit niet vanzelf correct. Een e-mail, een tabel, een puntenlijst, een samenvatting van vijf zinnen — wees specifiek.</p>
+<blockquote>
+<p><em>"Maximaal 200 woorden, opgebouwd als een bewonersbrief met aanhef en afsluiting met contactgegevens."</em></p>
+</blockquote>
+<hr />
+<h3 id="t-toon">T — Toon</h3>
+<p><em>Hoe moet het klinken?</em></p>
+<p>Een officieel raadsbesluit klinkt anders dan een Facebook-post. Zeg Copilot expliciet welke sfeer je wil.</p>
+<blockquote>
+<p><em>"Warm en begrijpelijk, taalniveau B1 — toegankelijk voor alle inwoners."</em></p>
+</blockquote>
+<hr />
+<h2 id="van-slecht-naar-goed-een-volledig-voorbeeld">Van slecht naar goed: een volledig voorbeeld</h2>
+<h3 id="zonder-start">❌ Zonder S.T.A.R.T.</h3>
+<blockquote>
+<p><em>"Brief over de nieuwe afvalregels voor gft."</em></p>
+</blockquote>
+<p><strong>Wat Copilot doet:</strong> verzint zelf regels, schrijft een te lange ambtelijke tekst, gebruikt een verkeerde aanhef, en mist de kern van de boodschap.</p>
+<hr />
+<h3 id="met-start">✅ Met S.T.A.R.T.</h3>
+<blockquote>
+<p><strong>S</strong> — "Ik ben medewerker van team milieu van de stad Lier. We bereiden de GFT-campagne van september voor."<br />
+<strong>T</strong> — "Schrijf een bewonersbrief die uitlegt waarom plastic zakjes niet in de groene bak mogen."<br />
+<strong>A</strong> — "Vermijd technisch jargon en verwijzingen naar boetes. De nieuwe regels gelden vanaf 1 september. Sluit af met een link naar onze website."<br />
+<strong>R</strong> — "Maximaal 200 woorden, opgebouwd als een bewonersbrief met aanhef en afsluiting."<br />
+<strong>T</strong> — "Warm en begrijpelijk, taalniveau B1."</p>
+</blockquote>
+<p><strong>Wat Copilot doet:</strong> levert een bruikbare eerste versie die jij enkel nog hoeft na te lezen en eventueel bij te sturen.</p>
+<hr />
+<h2 id="meer-voorbeelden-uit-de-dagelijkse-praktijk">Meer voorbeelden uit de dagelijkse praktijk</h2>
+<h3 id="kcc-regelgeving-uitleggen-aan-een-klant">KCC — Regelgeving uitleggen aan een klant</h3>
+<blockquote>
+<p><strong>S</strong> — "Ik ben medewerker aan het loket van het KCC van de stad Lier."<br />
+<strong>T</strong> — "Herschrijf de onderstaande tekst over de vernieuwing van een rijbewijs naar een stapsgewijze uitleg voor een klant die niet digitaal vaardig is."<br />
+<strong>A</strong> — "Focus enkel op: wat meebrengen, wat kost het, waar naartoe. Laat juridische voetnoten weg."<br />
+<strong>R</strong> — "Maximaal 5 stappen, elk in één zin."<br />
+<strong>T</strong> — "Helder en geduldig, alsof je het aan een oudere inwoner uitlegt aan het loket."  </p>
+<p><em>[PLAK HIER DE ORIGINELE TEKST]</em></p>
+</blockquote>
+<hr />
+<h3 id="communicatie-persbericht-naar-sociale-media">Communicatie — Persbericht naar sociale media</h3>
+<blockquote>
+<p><strong>S</strong> — "Ik ben communicatiemedewerker van de stad Lier."<br />
+<strong>T</strong> — "Herschrijf het onderstaande persbericht over de opening van de vernieuwde bibliotheek naar een Facebook-post."<br />
+<strong>A</strong> — "Voeg 3 relevante emoji's toe. Geen tekst langer dan 5 zinnen. Sluit af met een call-to-action."<br />
+<strong>R</strong> — "Één klaarstaande Facebook-post, geen alternatieven."<br />
+<strong>T</strong> — "Enthousiast en uitnodigend."  </p>
+<p><em>[PLAK HIER HET PERSBERICHT]</em></p>
+</blockquote>
+<hr />
+<h3 id="hr-vacaturetekst-aantrekkelijker-maken">HR — Vacaturetekst aantrekkelijker maken</h3>
+<blockquote>
+<p><strong>S</strong> — "Ik werk bij team HR van de stad Lier en herschrijf een bestaande vacature."<br />
+<strong>T</strong> — "Maak de inleiding van deze vacaturetekst voor een groenarbeider aantrekkelijker."<br />
+<strong>A</strong> — "Benadruk: glijdende uren, maaltijdcheques en werkzekerheid. Gebruik actieve werkwoorden, geen passieve zinnen."<br />
+<strong>R</strong> — "Herschrijf enkel de eerste twee alinea's. De rest blijft ongewijzigd."<br />
+<strong>T</strong> — "Wervend maar authentiek — geen reclametaal."  </p>
+<p><em>[PLAK HIER DE VACATURETEKST]</em></p>
+</blockquote>
+<hr />
+<h3 id="technisch-uitvoerende-diensten-tud-bewonersbrief-over-werken-in-de-straat">Technisch uitvoerende diensten (TUD) — Bewonersbrief over werken in de straat</h3>
+<blockquote>
+<p><strong>S</strong> — "Ik ben ploegbaas bij de Technisch uitvoerende diensten (TUD) van de stad Lier."<br />
+<strong>T</strong> — "Schrijf een kort briefje dat we in de brievenbus steken van bewoners in een straat waar we werken."<br />
+<strong>A</strong> — "Vertel dat we op dinsdag 14 april en woensdag 15 april gaten in het asfalt herstellen. Vraag bewoners om die dagen overdag geen auto op straat te parkeren."<br />
+<strong>R</strong> — "Maximaal 4 korte zinnen. Zet de data in een apart lijstje."<br />
+<strong>T</strong> — "Vriendelijk en direct, geen ambtelijk taalgebruik."</p>
+</blockquote>
+<hr />
+<h2 id="veelgemaakte-fouten">Veelgemaakte fouten</h2>
+<table>
+<thead>
+<tr>
+<th>Fout</th>
+<th>Voorbeeld</th>
+<th>Beter</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Te vaag</td>
+<td><em>"Schrijf een tekst over ons evenement."</em></td>
+<td>Geef naam, datum, doelgroep en doel van het evenement</td>
+</tr>
+<tr>
+<td>Geen formaat opgegeven</td>
+<td><em>"Maak een samenvatting."</em></td>
+<td><em>"Maak een samenvatting van max. 5 zinnen in bulletpunten"</em></td>
+</tr>
+<tr>
+<td>Geen toon opgegeven</td>
+<td><em>"Schrijf een e-mail."</em></td>
+<td>Voeg toe: <em>"Formeel, voor een externe partner"</em></td>
+</tr>
+<tr>
+<td>Alles in één prompt</td>
+<td>Eén gigantische opdracht met tien deelstappen</td>
+<td>Knip op in meerdere prompts — zie Fase 5</td>
+</tr>
+<tr>
+<td>Eerste antwoord klakkeloos accepteren</td>
+<td>Kopiëren zonder te lezen</td>
+<td>Lees altijd na en stuur bij waar nodig</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="het-spiekbriefje">Het spiekbriefje</h2>
+<p>Kopieer dit sjabloon en gebruik het telkens als vertrekpunt:</p>
+<pre><code>S (Situatie):        Ik ben [functie] bij [team] van de stad Lier. [Context.]
+T (Taak):            [Wat moet Copilot exact doen?]
+A (Aandachtspunten): [Wat moet Copilot weten of vermijden?]
+R (Resultaat):       [Formaat, lengte, structuur.]
+T (Toon):            [Formeel / vriendelijk / B1 / enthousiast / zakelijk...]
+</code></pre>
+<hr />
+<h2 id="wat-als-het-antwoord-niet-goed-genoeg-is">Wat als het antwoord niet goed genoeg is?</h2>
+<p>Gooi de chat niet weg en begin niet opnieuw. Copilot onthoudt de volledige context van het gesprek. Stuur gewoon bij:</p>
+<ul>
+<li><strong>Toon aanpassen:</strong> <em>"Dit is inhoudelijk goed, maar te formeel. Herschrijf het warmer."</em></li>
+<li><strong>Inkorten:</strong> <em>"Te lang. Kort in tot drie alinea's."</em></li>
+<li><strong>Aanvullen:</strong> <em>"Voeg een opsomming toe met de drie belangrijkste data."</em></li>
+<li><strong>Alternatief vragen:</strong> <em>"Geef me drie verschillende versies van de openingszin."</em></li>
+</ul>
+<p>Je leert hier meer over in <a href="../../fase5/gevorderd/">Fase 5 — Gevorderd gebruik</a>.</p>
+<hr />
+<p>!!! tip "Voor ambassadeurs: S.T.A.R.T. als gesprekskapstok 🦸"
+    Wanneer een collega klaagt dat Copilot slechte antwoorden geeft, loop dan samen het S.T.A.R.T.-rijtje door. Negen van de tien keer ontbreekt er één element — meestal de <strong>A</strong> (aandachtspunten) of de tweede <strong>T</strong> (toon). Twee minuten werk, frustratie opgelost.</p>
+<p>!!! tip "Voor ambassadeurs: gebruik de promptbibliotheek als leermateriaal 🦸"
+    De prompts in onze interne <a href="../../ondersteuning/">Promptbibliotheek</a> zijn allemaal opgebouwd volgens S.T.A.R.T. Wijs nieuwe collega's daarop als eerste stap — zo leren ze het framework niet abstract maar aan concrete voorbeelden uit hun eigen team.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Terug naar boven
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.expand", "navigation.top", "search.highlight", "search.suggest", "content.code.copy", "toc.follow"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.result.more.one": "1 extra overeenkomst op deze pagina", "search.result.more.other": "# extra overeenkomsten op deze pagina", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Ontbreekt", "select.version": "Selecteer versie"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
