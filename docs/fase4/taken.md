@@ -53,7 +53,7 @@ Geeft het resultaat niet helemaal wat je wil? Stuur bij in dezelfde chat — je 
 
 **De prompt:**
 
-> **S** — "Ik ben medewerker bij [dienst] van de stad Lier en beantwoord een vraag van een inwoner."  
+> **S** — "Ik ben medewerker bij [team] van de stad Lier en beantwoord een vraag van een inwoner."  
 > **T** — "Schrijf een duidelijk en vriendelijk antwoord op de onderstaande vraag van een burger."  
 > **A** — "Houd het concreet en praktisch. Vermeld de volgende informatie: [vul in wat de burger moet weten]. Verwijs naar [website/telefoonnummer/loket] voor verdere vragen. Maak geen beloftes die je niet kunt nakomen."  
 > **R** — "Kort antwoord van maximaal 3 alinea's, klaar om te versturen als e-mail."  
@@ -97,7 +97,7 @@ Geeft het resultaat niet helemaal wat je wil? Stuur bij in dezelfde chat — je 
 
 **De prompt:**
 
-> **S** — "Ik ben [functie] bij [dienst] van de stad Lier."  
+> **S** — "Ik ben [functie] bij [team] van de stad Lier."  
 > **T** — "Schrijf een interne nota / e-mail aan [ontvanger] over [onderwerp]."  
 > **A** — "Vermeld de volgende kernpunten: [punt 1], [punt 2], [punt 3]. Vraag om [actie of beslissing]. Geen overbodige inleiding."  
 > **R** — "Maximaal 3 alinea's, klaar om te versturen."  
@@ -135,5 +135,5 @@ Geeft het resultaat niet helemaal wat je wil? Stuur bij in dezelfde chat — je 
 
 ---
 
-!!! tip "Voor ambassadeurs: maak een dienstspecifieke shortlist 🦸"
-    Niet elke prompt is even relevant voor elke dienst. Selecteer samen met je collega's de drie à vier taken die zij het vaakst uitvoeren en maak een gelamineerd A4-spiekbriefje met de bijhorende prompts. Tastbaar, direct bruikbaar en laagdrempelig — ook voor wie niet gewend is om met een computer te werken.
+!!! tip "Voor ambassadeurs: maak een teamspecifieke shortlist 🦸"
+    Niet elke prompt is even relevant voor elk team. Selecteer samen met je collega's de drie à vier taken die zij het vaakst uitvoeren en maak een gelamineerd A4-spiekbriefje met de bijhorende prompts. Tastbaar, direct bruikbaar en laagdrempelig — ook voor wie niet gewend is om met een computer te werken.

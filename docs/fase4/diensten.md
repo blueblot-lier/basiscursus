@@ -1,8 +1,8 @@
 # Use cases per stadsdienst
 
-> **Elke dienst heeft zijn eigen uitdagingen en zijn eigen routinetaken. Hier vind je kant-en-klare prompts die specifiek zijn afgestemd op jouw afdeling — direct kopieerbaar en aanpasbaar.**
+> **Elk team heeft zijn eigen uitdagingen en zijn eigen routinetaken. Hier vind je kant-en-klare prompts die specifiek zijn afgestemd op jouw afdeling — direct kopieerbaar en aanpasbaar.**
 
-Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [Promptbibliotheek op SharePoint](../ondersteuning.md) — zo leren we van elkaar.
+Staat jouw team er niet bij of heb je een betere prompt? Voeg hem toe aan de [Promptbibliotheek op SharePoint](../ondersteuning.md) — zo leren we van elkaar.
 
 ---
 
@@ -34,7 +34,7 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 > **S** — "Ik ben medewerker bij het KCC van de stad Lier en beantwoord een klacht van een inwoner."  
 > **T** — "Schrijf een de-escalerend antwoord op deze klacht over [onderwerp]."  
-> **A** — "Bedank de inwoner voor de melding. Geef aan dat we dit doorgeven aan de bevoegde dienst en dat ze binnen [X] werkdagen een update krijgen. Beloof niets concreets over de uitkomst."  
+> **A** — "Bedank de inwoner voor de melding. Geef aan dat we dit doorgeven aan het bevoegde team en dat ze binnen [X] werkdagen een update krijgen. Beloof niets concreets over de uitkomst."  
 > **R** — "Maximaal 3 alinea's, klaar om te versturen als e-mail."  
 > **T** — "Empathisch, kalm en professioneel."
 
@@ -76,7 +76,7 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 **Taak 1: Vacaturetekst aantrekkelijker maken**
 
-> **S** — "Ik werk bij de HR-dienst van de stad Lier en herschrijf een vacaturetekst."  
+> **S** — "Ik werk bij team HR van de stad Lier en herschrijf een vacaturetekst."  
 > **T** — "Maak de inleiding en het voordelen-gedeelte van deze vacature aantrekkelijker."  
 > **A** — "Benadruk: [voordelen, bijv. glijdende uren, maaltijdcheques, werkzekerheid, opleidingsmogelijkheden]. Gebruik actieve werkwoorden. Geen passieve zinnen of clichés zoals 'dynamische werkomgeving'."  
 > **R** — "Herschrijf enkel de eerste twee alinea's en het voordelen-blok. De rest blijft ongewijzigd."  
@@ -87,7 +87,7 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 **Taak 2: Onthaalbrief voor nieuwe medewerker**
 
 > **S** — "Ik ben HR-medewerker bij de stad Lier en verwelkom een nieuwe collega."  
-> **T** — "Schrijf een onthaalbrief voor een nieuwe medewerker die start als [functie] bij [dienst]."  
+> **T** — "Schrijf een onthaalbrief voor een nieuwe medewerker die start als [functie] bij [team]."  
 > **A** — "Vermeld: startdatum, waar hij/zij zich moet melden, bij wie, en wat hij/zij de eerste dag kan verwachten. Verwijs naar het onthaalbeleid op LIN."  
 > **R** — "Informele brief van maximaal 3 alinea's."  
 > **T** — "Warm en verwelkomend, de medewerker moet zich meteen op zijn gemak voelen."
@@ -98,7 +98,7 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 **Taak 1: Budgetrapport samenvatten voor niet-financiële lezers**
 
-> **S** — "Ik ben medewerker bij de financiële dienst van de stad Lier."  
+> **S** — "Ik ben medewerker bij team financiën van de stad Lier."  
 > **T** — "Vat het onderstaande budgetrapport samen voor een publiek zonder financiële achtergrond."  
 > **A** — "Vermijd boekhoudkundige termen. Focus op: wat zijn de grote lijnen, waar wordt het meeste geld aan besteed en zijn er opvallende afwijkingen ten opzichte van het plan?"  
 > **R** — "Samenvatting van maximaal 10 zinnen, gevolgd door 3 bulletpoints met de belangrijkste cijfers."  
@@ -108,7 +108,7 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 **Taak 2: Subsidieaanvraag controleren op volledigheid**
 
-> **S** — "Ik ben medewerker bij de financiële dienst en controleer een subsidieaanvraag."  
+> **S** — "Ik ben medewerker bij team financiën en controleer een subsidieaanvraag."  
 > **T** — "Scan het onderstaande subsidiedossier op mogelijke hiaten of ontbrekende elementen."  
 > **A** — "Controleer op: volledigheid van de motivering, aanwezigheid van een begroting, verwijzing naar de juiste wetgeving en aanwezigheid van de vereiste bijlagen. Verzin geen regelgeving die er niet staat."  
 > **R** — "Lijst van aandachtspunten per categorie."  
@@ -166,7 +166,7 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 **Taak 1: Evenement promoten op sociale media**
 
-> **S** — "Ik ben medewerker bij de sportdienst / cultuurdienst van de stad Lier."  
+> **S** — "Ik ben medewerker bij team sport / team cultuur van de stad Lier."  
 > **T** — "Schrijf een Facebook-post om [evenement] te promoten."  
 > **A** — "Vermeld: naam evenement, datum, locatie, doelgroep en hoe men zich kan inschrijven of deelnemen. Voeg 3 passende emoji's toe."  
 > **R** — "Maximaal 5 zinnen met een duidelijke call-to-action."  
@@ -174,7 +174,7 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 **Taak 2: Subsidiereglement begrijpelijk maken voor verenigingen**
 
-> **S** — "Ik ben medewerker bij de cultuurdienst van de stad Lier en communiceer met lokale verenigingen."  
+> **S** — "Ik ben medewerker bij team cultuur van de stad Lier en communiceer met lokale verenigingen."  
 > **T** — "Herschrijf het onderstaande subsidiereglement naar een begrijpelijke handleiding voor verenigingsbestuurders."  
 > **A** — "Focus op: wie kan aanvragen, wat zijn de voorwaarden, welke documenten zijn nodig en wat is de deadline. Laat juridische artikelnummers weg."  
 > **R** — "Stapsgewijze handleiding met maximaal 6 stappen."  
@@ -215,13 +215,13 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 > **S** — "Ik ben beleidsmedewerker bij de stad Lier en schrijf een nota voor het schepencollege."  
 > **T** — "Stel een logische structuur voor voor een beleidsnota over [onderwerp]."  
-> **A** — "De nota moet goedgekeurd worden door het college en daarna uitgevoerd worden door [dienst]. Houd rekening met: aanleiding, doelstellingen, voorgestelde aanpak, financiële impact en tijdlijn."  
+> **A** — "De nota moet goedgekeurd worden door het college en daarna uitgevoerd worden door [team]. Houd rekening met: aanleiding, doelstellingen, voorgestelde aanpak, financiële impact en tijdlijn."  
 > **R** — "Genummerde structuur met per hoofdstuk een korte beschrijving van de inhoud."  
 > **T** — "Formeel en beleidsmatig."
 
 ---
 
-## IT & Interne Diensten
+## IT & Interne Teams
 
 **Taak 1: Technische handleiding schrijven voor collega's**
 
@@ -241,5 +241,5 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 ---
 
-!!! tip "Voor ambassadeurs: ontbreekt jouw dienst? 🦸"
+!!! tip "Voor ambassadeurs: ontbreekt jouw team? 🦸"
     Staat jouw afdeling er niet bij of zijn de voorbeelden niet specifiek genoeg? Dat is precies jouw rol als ambassadeur. Ontwikkel samen met je collega's één of twee prompts die écht passen bij jullie dagelijkse werk en voeg ze toe aan de [Promptbibliotheek](../ondersteuning.md). Zo groeit de bibliotheek organisch vanuit de werkvloer.

@@ -42,7 +42,7 @@ Je krijgt een complexe, boze of gevoelige e-mail van een inwoner. Je wil profess
 
 > **S** — "Ik ben medewerker bij het KCC van de stad Lier en beantwoord een klacht van een inwoner."  
 > **T** — "Schrijf een de-escalerend antwoord op deze klacht over sluikstort in de buurt."  
-> **A** — "Bedank de inwoner voor de melding. Geef aan dat we dit doorgeven aan de bevoegde dienst en dat ze binnen 5 werkdagen een update krijgen. Beloof niets concreets over de uitkomst."  
+> **A** — "Bedank de inwoner voor de melding. Geef aan dat we dit doorgeven aan het bevoegde team en dat ze binnen 5 werkdagen een update krijgen. Beloof niets concreets over de uitkomst."  
 > **R** — "Maximaal 3 alinea's, geen opsommingen."  
 > **T** — "Empathisch, rustig en professioneel."
 

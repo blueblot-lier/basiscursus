@@ -10,7 +10,7 @@ Op elke stadsdienst lopen één of meerdere 'AI-Ambassadeurs' rond. Dit zijn col
 ## De SharePoint promptbibliotheek
 Heb je zelf een 'gouden prompt' ontdekt die je wekelijks uren tijd bespaart? Houd hem niet voor jezelf! 
 
-We hebben een actieve, groeiende Promptbibliotheek op SharePoint waar collega's van alle diensten hun beste opdrachten met elkaar delen. 
+We hebben een actieve, groeiende Promptbibliotheek op SharePoint waar collega's van alle teams hun beste opdrachten met elkaar delen. 
 * **[Klik hier om naar de promptbibliotheek op SharePoint te gaan](#)** *(Tech-tip: Voeg hier later de echte link in)*
 * Je kunt hier prompts kopiëren, filteren op stadsdienst en je eigen successen toevoegen.
 

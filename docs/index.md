@@ -20,7 +20,7 @@ Na het doorlopen van de cursus kun je:
 
 ## Voor wie is deze cursus?
 
-Voor **alle medewerkers van de stad**, ongeacht je dienst of technische achtergrond. Of je nu aan het loket staat, beleidsdocumenten schrijft of de planning van de Technisch uitvoerende diensten (TUD) beheert: Copilot kan je werk verlichten.
+Voor **alle medewerkers van de stad**, ongeacht je team of technische achtergrond. Of je nu aan het loket staat, beleidsdocumenten schrijft of de planning van de Technisch uitvoerende diensten (TUD) beheert: Copilot kan je werk verlichten.
 
 Ben jij een **AI-ambassadeur**? Let dan in elke module op de speciale ambassadeurtips — herkenbaar aan het 🦸 icoontje.
 
@@ -49,7 +49,7 @@ Kies je eigen pad of werk de cursus van voor naar achter door. Elke module duurt
 | **Fase 1 — Basis** | Wat is AI, wat is Copilot, hoe werkt het? | Beginners |
 | **Fase 2 — Vaardigheden** | Het S.T.A.R.T.-framework: goede prompts schrijven | Iedereen |
 | **Fase 3 — Tools** | Copilot in Outlook, Word, Teams, Excel en PowerPoint | Iedereen |
-| **Fase 4 — Toepassing** | Spiekbriefjes voor dagelijkse taken en jouw dienst | Iedereen |
+| **Fase 4 — Toepassing** | Spiekbriefjes voor dagelijkse taken en jouw team | Iedereen |
 | **Fase 5 — Verdieping** | Geavanceerde technieken en workflows | Gevorderden |
 | **Veilig & verantwoord** | Privacy, GDPR en kwaliteitscontrole | Iedereen — verplicht |
 | **Praktijk & toetsing** | Zelf oefenen en kennis testen | Iedereen |
@@ -60,11 +60,11 @@ Kies je eigen pad of werk de cursus van voor naar achter door. Elke module duurt
 
 Loopt er iets mis met je toegang, of heb je een vraag over een module? Je hoeft er niet alleen voor te staan.
 
-- **Je AI-ambassadeur** — elke dienst heeft er één. Vraag ernaar bij je leidinggevende.
+- **Je AI-ambassadeur** — elk team heeft er één. Vraag ernaar bij je leidinggevende.
 - **IT-helpdesk** — voor technische problemen: meld via Ultimo.
 - **Ondersteuning & beleid** — voor het officiële kader en de promptbibliotheek: [Ondersteuning & beleid](ondersteuning.md)
 
 ---
 
 !!! tip "Snel starten?"
-    Heb je al ervaring met AI en wil je meteen aan de slag? Sla de theorie over en ga rechtstreeks naar [Fase 3 — Tools](fase3/outlook.md) of de [kant-en-klare prompts per dienst](fase4/diensten.md).
+    Heb je al ervaring met AI en wil je meteen aan de slag? Sla de theorie over en ga rechtstreeks naar [Fase 3 — Tools](fase3/outlook.md) of de [kant-en-klare prompts per team](fase4/diensten.md).

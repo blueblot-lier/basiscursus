@@ -49,11 +49,11 @@ Je hebt al eens met AI geëxperimenteerd, maar wil het nu structureel inzetten i
 1. [Leren prompten](../fase2/prompten.md) — verfijn je aanpak met het S.T.A.R.T.-framework
 2. [Fase 3 — Tools](../fase3/outlook.md) — doorloop de tools die relevant zijn voor jouw werk
 3. [Dagelijkse taken](../fase4/taken.md) — kant-en-klare prompts voor veelvoorkomende situaties
-4. [Use cases per dienst](../fase4/diensten.md) — voorbeelden specifiek voor jouw afdeling
+4. [Use cases per team](../fase4/diensten.md) — voorbeelden specifiek voor jouw afdeling
 5. [Veilig & verantwoord](../veiligheid/privacy.md) — verplichte kost voor iedereen
 
 !!! tip "Tip voor toepassers"
-    De pagina [Use cases per dienst](../fase4/diensten.md) is jouw snelste winst. Zoek jouw dienst op, kopieer een prompt en pas hem aan. Vijf minuten werk, meetbaar resultaat.
+    De pagina [Use cases per team](../fase4/diensten.md) is jouw snelste winst. Zoek jouw team op, kopieer een prompt en pas hem aan. Vijf minuten werk, meetbaar resultaat.
 
 ---
 
@@ -64,7 +64,7 @@ Je kent het S.T.A.R.T.-framework, gebruikt Copilot al regelmatig en wil nu verde
 **Jouw aanbevolen pad:**
 
 1. [Gevorderd gebruik](../fase5/gevorderd.md) — prompt chaining, iteratief werken en templates bouwen
-2. [Use cases per dienst](../fase4/diensten.md) — inspiratie voor nieuwe toepassingen in jouw afdeling
+2. [Use cases per team](../fase4/diensten.md) — inspiratie voor nieuwe toepassingen in jouw afdeling
 3. [Kwaliteit & controle](../veiligheid/kwaliteit.md) — kritisch blijven ook als je veel vertrouwen hebt in de output
 4. [Ondersteuning & beleid](../ondersteuning.md) — de promptbibliotheek en hoe je bijdraagt
 

@@ -67,7 +67,7 @@ Je kon niet aanwezig zijn maar wil weten wat er besproken is. In plaats van de o
 
 > *"Geef me een samenvatting van de vergadering. Focus op wat er beslist is en wat er van mij verwacht wordt."*
 
-> *"Zijn er actiepunten voor [jouw naam of dienst] vermeld?"*
+> *"Zijn er actiepunten voor [jouw naam of team] vermeld?"*
 
 > *"Welke standpunten zijn er ingenomen over [specifiek onderwerp]?"*
 

@@ -111,7 +111,7 @@ Je hebt een lange presentatie ontvangen en wil snel de kern begrijpen — of je 
 |---|---|
 | Infosessie buurtbewoners | Presentatie over project X, 8 slides, publieksvriendelijk |
 | Collegepresentatie | Beleidsnota omzetten naar 6 slides, formeel en bondig |
-| Teammeeting | Kwartaaloverzicht visualiseren, met actiepunten per dienst |
+| Teammeeting | Kwartaaloverzicht visualiseren, met actiepunten per team |
 | Externe partners | Presentatie over samenwerking, professioneel en beknopt |
 | Opleidingssessie | Stapsgewijze instructiepresentatie voor medewerkers |
 

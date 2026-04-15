@@ -50,7 +50,7 @@ Je hebt een grote dataset maar weet niet waar je moet beginnen. Copilot scant de
 
 **Voorbeelden voor stadswerk:**
 
-> *"Analyseer deze tabel met vergunningsaanvragen. Welke dienst heeft de meeste aanvragen ingediend in het eerste kwartaal?"*
+> *"Analyseer deze tabel met vergunningsaanvragen. Welk team heeft de meeste aanvragen ingediend in het eerste kwartaal?"*
 
 > *"Zijn er rijen in deze dataset die opvallen als mogelijke fouten of uitschieters?"*
 
@@ -72,7 +72,7 @@ Een grafiek zegt meer dan een tabel vol cijfers. Copilot stelt het meest geschik
 
 > *"Visualiseer de evolutie van het aantal inschrijvingen per maand als een lijndiagram."*
 
-> *"Maak een cirkeldiagram dat toont welk percentage van het budget per dienst is gebruikt."*
+> *"Maak een cirkeldiagram dat toont welk percentage van het budget per team is gebruikt."*
 
 ---
 

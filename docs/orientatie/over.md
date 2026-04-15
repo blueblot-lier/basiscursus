@@ -16,18 +16,18 @@ Dat is precies wat deze cursus je leert: **de juiste opdrachten geven zodat Copi
 
 ## Voor wie is deze cursus?
 
-Voor **alle medewerkers van de stad**, ongeacht je dienst of technische achtergrond.
+Voor **alle medewerkers van de stad**, ongeacht je team of technische achtergrond.
 
 | Jouw situatie | Wat je hier haalt |
 |---|---|
 | Je hebt nog nooit met AI gewerkt | Een rustige, stapsgewijze introductie zonder technisch jargon |
 | Je hebt al eens ChatGPT gebruikt | Concrete technieken om Copilot slim in te zetten voor stadswerk |
-| Je gebruikt Copilot al regelmatig | Geavanceerde methodes en kant-en-klare prompts per dienst |
+| Je gebruikt Copilot al regelmatig | Geavanceerde methodes en kant-en-klare prompts per team |
 
 Weet je niet zeker waar je begint? De [Quick Scan](quickscan.md) wijst je in twee minuten naar het juiste startpunt.
 
 !!! tip "Ben jij een AI-ambassadeur? 🦸"
-    Let in elke module op de speciale ambassadeurtips. Die helpen je om collega's te begeleiden, veelgemaakte fouten te voorkomen en het geleerde snel te vertalen naar je eigen dienst.
+    Let in elke module op de speciale ambassadeurtips. Die helpen je om collega's te begeleiden, veelgemaakte fouten te voorkomen en het geleerde snel te vertalen naar je eigen team.
 
 ---
 
@@ -38,7 +38,7 @@ Weet je niet zeker waar je begint? De [Quick Scan](quickscan.md) wijst je in twe
 | Uitleggen wat AI is en wat het **niet** kan | Fase 1 — Basis |
 | Sterke prompts schrijven via het **S.T.A.R.T.-framework** | Fase 2 — Vaardigheden |
 | Copilot gebruiken in Word, Outlook, Teams, Excel en PowerPoint | Fase 3 — Tools |
-| Kant-en-klare prompts toepassen voor jouw specifieke dienst | Fase 4 — Toepassing |
+| Kant-en-klare prompts toepassen voor jouw specifiek team | Fase 4 — Toepassing |
 | Werken met geavanceerde technieken zoals prompt chaining | Fase 5 — Verdieping |
 | Veilig omgaan met persoonsgegevens en stadsdata | Veilig & verantwoord |
 
@@ -54,4 +54,4 @@ Weet je niet zeker waar je begint? De [Quick Scan](quickscan.md) wijst je in twe
 
 De cursus is opgebouwd in korte modules van gemiddeld **10 à 15 minuten**. Je kiest je eigen tempo en je eigen pad — je hoeft niet alles van voor naar achter te doorlopen.
 
-Wil je snel resultaat? Ga dan meteen naar [Fase 3 — Tools](../fase3/outlook.md) of de [kant-en-klare prompts per dienst](../fase4/diensten.md).
+Wil je snel resultaat? Ga dan meteen naar [Fase 3 — Tools](../fase3/outlook.md) of de [kant-en-klare prompts per team](../fase4/diensten.md).

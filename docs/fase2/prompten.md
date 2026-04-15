@@ -27,9 +27,9 @@ Je hoeft de vijf elementen niet altijd in die volgorde te typen — maar hoe mee
 ### S — Situatie
 *Wie ben jij, en wat is de context?*
 
-Copilot weet niet dat jij voor de stad werkt, bij welke dienst je hoort of wie je doelgroep is. Schets de situatie kort maar concreet.
+Copilot weet niet dat jij voor de stad werkt, bij welk team je hoort of wie je doelgroep is. Schets de situatie kort maar concreet.
 
-> *"Ik ben medewerker bij de milieudienst van de stad Lier. We bereiden de jaarlijkse GFT-campagne voor."*
+> *"Ik ben medewerker bij team milieu van de stad Lier. We bereiden de jaarlijkse GFT-campagne voor."*
 
 ---
 
@@ -81,7 +81,7 @@ Een officieel raadsbesluit klinkt anders dan een Facebook-post. Zeg Copilot expl
 
 ### ✅ Met S.T.A.R.T.
 
-> **S** — "Ik ben medewerker van de milieudienst van de stad Lier. We bereiden de GFT-campagne van september voor."  
+> **S** — "Ik ben medewerker van team milieu van de stad Lier. We bereiden de GFT-campagne van september voor."  
 > **T** — "Schrijf een bewonersbrief die uitlegt waarom plastic zakjes niet in de groene bak mogen."  
 > **A** — "Vermijd technisch jargon en verwijzingen naar boetes. De nieuwe regels gelden vanaf 1 september. Sluit af met een link naar onze website."  
 > **R** — "Maximaal 200 woorden, opgebouwd als een bewonersbrief met aanhef en afsluiting."  
@@ -119,7 +119,7 @@ Een officieel raadsbesluit klinkt anders dan een Facebook-post. Zeg Copilot expl
 
 ### HR — Vacaturetekst aantrekkelijker maken
 
-> **S** — "Ik werk bij de HR-dienst van de stad Lier en herschrijf een bestaande vacature."  
+> **S** — "Ik werk bij team HR van de stad Lier en herschrijf een bestaande vacature."  
 > **T** — "Maak de inleiding van deze vacaturetekst voor een groenarbeider aantrekkelijker."  
 > **A** — "Benadruk: glijdende uren, maaltijdcheques en werkzekerheid. Gebruik actieve werkwoorden, geen passieve zinnen."  
 > **R** — "Herschrijf enkel de eerste twee alinea's. De rest blijft ongewijzigd."  
@@ -156,7 +156,7 @@ Een officieel raadsbesluit klinkt anders dan een Facebook-post. Zeg Copilot expl
 Kopieer dit sjabloon en gebruik het telkens als vertrekpunt:
 
 ```
-S (Situatie):        Ik ben [functie] bij [dienst] van de stad Lier. [Context.]
+S (Situatie):        Ik ben [functie] bij [team] van de stad Lier. [Context.]
 T (Taak):            [Wat moet Copilot exact doen?]
 A (Aandachtspunten): [Wat moet Copilot weten of vermijden?]
 R (Resultaat):       [Formaat, lengte, structuur.]
@@ -182,4 +182,4 @@ Je leert hier meer over in [Fase 5 — Gevorderd gebruik](../fase5/gevorderd.md)
     Wanneer een collega klaagt dat Copilot slechte antwoorden geeft, loop dan samen het S.T.A.R.T.-rijtje door. Negen van de tien keer ontbreekt er één element — meestal de **A** (aandachtspunten) of de tweede **T** (toon). Twee minuten werk, frustratie opgelost.
 
 !!! tip "Voor ambassadeurs: gebruik de promptbibliotheek als leermateriaal 🦸"
-    De prompts in onze interne [Promptbibliotheek](../ondersteuning.md) zijn allemaal opgebouwd volgens S.T.A.R.T. Wijs nieuwe collega's daarop als eerste stap — zo leren ze het framework niet abstract maar aan concrete voorbeelden uit hun eigen dienst.
+    De prompts in onze interne [Promptbibliotheek](../ondersteuning.md) zijn allemaal opgebouwd volgens S.T.A.R.T. Wijs nieuwe collega's daarop als eerste stap — zo leren ze het framework niet abstract maar aan concrete voorbeelden uit hun eigen team.

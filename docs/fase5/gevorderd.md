@@ -146,10 +146,10 @@ Heb je na wat experimenteren de perfecte prompt gevonden voor een wekelijkse of 
 **Voorbeeld van een herbruikbare template:**
 
 ```
-TEMPLATE: Maandelijks dienstverslag
+TEMPLATE: Maandelijks teamverslag
 
-S: Ik ben [functie] bij [dienst] van de stad Lier en schrijf het maandelijks verslag.
-T: Vat de onderstaande activiteiten en cijfers samen in een beknopt dienstverslag.
+S: Ik ben [functie] bij [team] van de stad Lier en schrijf het maandelijks verslag.
+T: Vat de onderstaande activiteiten en cijfers samen in een beknopt teamverslag.
 A: Focus op: uitgevoerde taken, afwijkingen ten opzichte van de planning, 
    opvallende gebeurtenissen en actiepunten voor volgende maand. 
    Gebruik de data exact zoals opgegeven — verzin niets bij.
@@ -208,4 +208,4 @@ Hoe meer je Copilot gebruikt, hoe meer je leert wanneer het wél en niet te vert
     De meest overtuigende manier om gevorderd gebruik te demonstreren is een **live prompt chain** uitvoeren op een echt dossier — bijvoorbeeld een wijkvergaderverslag omzetten naar een beleidsadvies in vier stappen. Laat de collega's elke stap zien en becommentarieer wat je doet en waarom. Dat maakt het tastbaar en reproduceerbaar.
 
 !!! tip "Voor ambassadeurs: bouw een gedeelde templatebibliotheek op 🦸"
-    Eén goed uitgewerkte template per dienst is genoeg om tien collega's meteen productiever te maken. Plan een kort werkmoment met de enthousiaste gebruikers van elke afdeling, schrijf samen de beste prompts op, en laad ze op in de [Promptbibliotheek](../ondersteuning.md). Dat is de hefboom die het meeste effect heeft op de langere termijn.
+    Eén goed uitgewerkte template per team is genoeg om tien collega's meteen productiever te maken. Plan een kort werkmoment met de enthousiaste gebruikers van elke afdeling, schrijf samen de beste prompts op, en laad ze op in de [Promptbibliotheek](../ondersteuning.md). Dat is de hefboom die het meeste effect heeft op de langere termijn.
