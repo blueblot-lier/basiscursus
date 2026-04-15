@@ -16,7 +16,7 @@ We hebben een actieve, groeiende Promptbibliotheek op SharePoint waar collega's 
 
 ## IT helpdesk
 Doet Copilot helemaal niets meer? Verschijnt het icoontje niet in Word of Teams, of krijg je vreemde foutmeldingen bij het inloggen?
-* Neem dan contact op met IT via Ultimo of bel het interne IT-nummer.
+* Neem dan contact op met IT via Ultimo.
 
 ## Afsprakenkader & beleid
 Wil je de exacte, officiële afspraken rondom AI, GDPR en databeheer binnen de stad nog eens rustig nalezen in juridische taal?

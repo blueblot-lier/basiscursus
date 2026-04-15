@@ -18,7 +18,7 @@ Microsoft Copilot is geen standaardfunctie van Office — het vereist een aparte
 
 !!! info "Wie krijgt een licentie?"
     De stad rolt Copilot gefaseerd uit. Controleer bij je leidinggevende of op LIN welke medewerkers in jouw dienst al toegang hebben.  
-    Heb je nog geen toegang maar wil je wel starten? Neem contact op met de IT-helpdesk via Ultimo of het interne IT-nummer.
+    Heb je nog geen toegang maar wil je wel starten? Neem contact op met de IT-helpdesk via Ultimo.
 
 ---
 

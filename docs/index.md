@@ -61,7 +61,7 @@ Kies je eigen pad of werk de cursus van voor naar achter door. Elke module duurt
 Loopt er iets mis met je toegang, of heb je een vraag over een module? Je hoeft er niet alleen voor te staan.
 
 - **Je AI-ambassadeur** — elke dienst heeft er één. Vraag ernaar bij je leidinggevende.
-- **IT-helpdesk** — voor technische problemen: meld via Ultimo of bel het interne IT-nummer.
+- **IT-helpdesk** — voor technische problemen: meld via Ultimo.
 - **Ondersteuning & beleid** — voor het officiële kader en de promptbibliotheek: [Ondersteuning & beleid](ondersteuning.md)
 
 ---
