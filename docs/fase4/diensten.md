@@ -144,7 +144,7 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 **Taak 1: Bewonersbrief over werken in de straat**
 
-> **S** — "Ik ben medewerker bij de technische dienst van de stad Lier."  
+> **S** — "Ik ben medewerker bij de Technisch uitvoerende diensten (TUD) van de stad Lier."  
 > **T** — "Schrijf een bewonersbrief die we in de brievenbus steken van bewoners in een straat waar werken gepland zijn."  
 > **A** — "Vermeld: wat er gebeurt ([type werken]), wanneer ([data]), wat de impact is voor bewoners (parkeerverbod / omleiding / lawaaihinder), en een contactnummer voor vragen."  
 > **R** — "Maximaal 5 zinnen. Zet de data en praktische info in een apart lijstje."  
@@ -152,7 +152,7 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 **Taak 2: Werkopdracht samenvatten voor rapportage**
 
-> **S** — "Ik ben ploegbaas bij de technische dienst van de stad Lier."  
+> **S** — "Ik ben ploegbaas bij de Technisch uitvoerende diensten (TUD) van de stad Lier."  
 > **T** — "Vat de onderstaande werkopdrachten samen voor het maandelijkse rapport aan de leidinggevende."  
 > **A** — "Groepeer per type werk. Vermeld het totaal aantal uitgevoerde opdrachten en eventuele bijzonderheden of knelpunten."  
 > **R** — "Gestructureerde samenvatting met tussentitels, maximaal 1 pagina."  

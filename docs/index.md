@@ -20,7 +20,7 @@ Na het doorlopen van de cursus kun je:
 
 ## Voor wie is deze cursus?
 
-Voor **alle medewerkers van de stad**, ongeacht je dienst of technische achtergrond. Of je nu aan het loket staat, beleidsdocumenten schrijft of de planning van de technische dienst beheert: Copilot kan je werk verlichten.
+Voor **alle medewerkers van de stad**, ongeacht je dienst of technische achtergrond. Of je nu aan het loket staat, beleidsdocumenten schrijft of de planning van de Technisch uitvoerende diensten (TUD) beheert: Copilot kan je werk verlichten.
 
 Ben jij een **AI-ambassadeur**? Let dan in elke module op de speciale ambassadeurtips — herkenbaar aan het 🦸 icoontje.
 

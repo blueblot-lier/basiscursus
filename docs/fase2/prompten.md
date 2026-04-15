@@ -129,9 +129,9 @@ Een officieel raadsbesluit klinkt anders dan een Facebook-post. Zeg Copilot expl
 
 ---
 
-### Technische Dienst — Bewonersbrief over werken in de straat
+### Technisch uitvoerende diensten (TUD) — Bewonersbrief over werken in de straat
 
-> **S** — "Ik ben ploegbaas bij de technische dienst van de stad Lier."  
+> **S** — "Ik ben ploegbaas bij de Technisch uitvoerende diensten (TUD) van de stad Lier."  
 > **T** — "Schrijf een kort briefje dat we in de brievenbus steken van bewoners in een straat waar we werken."  
 > **A** — "Vertel dat we op dinsdag 14 april en woensdag 15 april gaten in het asfalt herstellen. Vraag bewoners om die dagen overdag geen auto op straat te parkeren."  
 > **R** — "Maximaal 4 korte zinnen. Zet de data in een apart lijstje."  
