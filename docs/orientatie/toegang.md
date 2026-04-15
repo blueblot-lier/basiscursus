@@ -17,7 +17,7 @@ Microsoft Copilot is geen standaardfunctie van Office — het vereist een aparte
 3. Zie je een foutmelding of word je doorverwezen naar de gratis versie? Dan is je licentie nog niet actief. ❌
 
 !!! info "Wie krijgt een licentie?"
-    De stad rolt Copilot gefaseerd uit. Controleer bij je leidinggevende of op LIN welke medewerkers in jouw dienst al toegang hebben.  
+    De stad rolt Copilot gefaseerd uit. Controleer bij je leidinggevende of op LIN welke medewerkers in jouw team al toegang hebben.  
     Heb je nog geen toegang maar wil je wel starten? Neem contact op met de IT-helpdesk via Ultimo.
 
 ---
