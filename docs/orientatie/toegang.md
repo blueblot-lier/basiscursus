@@ -47,7 +47,7 @@ Ga snel door deze vijf punten. Alles afgevinkt? Dan ben je klaar voor de Quick S
 - [ ] Ik kan inloggen op [copilot.microsoft.com](https://copilot.microsoft.com) met mijn stads-e-mailadres
 - [ ] Ik zie een chatvenster (geen foutmelding)
 - [ ] Ik weet waar ik Copilot kan openen in minstens één programma dat ik dagelijks gebruik
-- [ ] Ik weet dat ik **nooit** persoonsgegevens van burgers in Copilot mag plakken *(dit komt uitgebreid aan bod in de module Privacy & GDPR)*
+- [ ] Ik weet dat ik **nooit** persoonsgegevens van klanten in Copilot mag plakken *(dit komt uitgebreid aan bod in de module Privacy & GDPR)*
 - [ ] Ik weet bij wie ik terechtkan als er iets technisch niet werkt: **IT-helpdesk via Ultimo**
 
 ---

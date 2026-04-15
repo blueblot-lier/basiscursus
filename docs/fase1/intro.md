@@ -60,7 +60,7 @@ De beste manier om naar Copilot te kijken, is als een **briljante maar prille st
 | Teksten schrijven, herschrijven en samenvatten | Zelfstandig beslissingen nemen |
 | Brainstormen en ideeën genereren | Interne systemen raadplegen (tenzij gekoppeld) |
 | Vergaderingen samenvatten (via Teams) | Garanderen dat alle feiten correct zijn |
-| Vertalen en toon aanpassen | Persoonsgegevens van burgers opzoeken |
+| Vertalen en toon aanpassen | Persoonsgegevens van klanten opzoeken |
 | Formules uitleggen in Excel | Juridische of medische adviezen geven |
 
 !!! tip "Voor ambassadeurs: gebruik de stagiair-metafoor 🦸"

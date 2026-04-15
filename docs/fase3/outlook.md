@@ -28,7 +28,7 @@ Open de e-maildraad en klik bovenaan op **Samenvatting door Copilot**. Copilot s
 > *"Vat deze e-maildraad samen. Focus op: welke beslissing is er genomen en wat zijn de actiepunten voor mij?"*
 
 !!! warning "Let op bij doorgestuurde e-mails"
-    Copilot neemt bij het samenvatten soms ook oudere berichten onderaan de draad mee — inclusief interne notities die je misschien niet wil delen. Controleer de samenvatting altijd voordat je ze doorstuurt naar een externe partij of een burger.
+    Copilot neemt bij het samenvatten soms ook oudere berichten onderaan de draad mee — inclusief interne notities die je misschien niet wil delen. Controleer de samenvatting altijd voordat je ze doorstuurt naar een externe partij of een klant.
 
 ---
 

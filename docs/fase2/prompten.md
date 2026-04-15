@@ -93,10 +93,10 @@ Een officieel raadsbesluit klinkt anders dan een Facebook-post. Zeg Copilot expl
 
 ## Meer voorbeelden uit de dagelijkse praktijk
 
-### KCC — Regelgeving uitleggen aan een burger
+### KCC — Regelgeving uitleggen aan een klant
 
 > **S** — "Ik ben medewerker aan het loket van het KCC van de stad Lier."  
-> **T** — "Herschrijf de onderstaande tekst over de vernieuwing van een rijbewijs naar een stapsgewijze uitleg voor een burger die niet digitaal vaardig is."  
+> **T** — "Herschrijf de onderstaande tekst over de vernieuwing van een rijbewijs naar een stapsgewijze uitleg voor een klant die niet digitaal vaardig is."  
 > **A** — "Focus enkel op: wat meebrengen, wat kost het, waar naartoe. Laat juridische voetnoten weg."  
 > **R** — "Maximaal 5 stappen, elk in één zin."  
 > **T** — "Helder en geduldig, alsof je het aan een oudere inwoner uitlegt aan het loket."  

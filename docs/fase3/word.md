@@ -37,7 +37,7 @@ De lege pagina is het grootste obstakel voor elke schrijver. Copilot neemt die d
 
 > **S** — "Ik ben beleidsmedewerker bij de stad Lier en schrijf een nota voor het schepencollege."  
 > **T** — "Schrijf een beleidsnota over de invoering van een containerpark-reservatiesysteem."  
-> **A** — "Vermeld de aanleiding (lange wachtrijen), de voorgestelde oplossing (online tijdslot reserveren), de geschatte kostprijs en de verwachte voordelen voor burgers en medewerkers."  
+> **A** — "Vermeld de aanleiding (lange wachtrijen), de voorgestelde oplossing (online tijdslot reserveren), de geschatte kostprijs en de verwachte voordelen voor klanten en medewerkers."  
 > **R** — "Structuur: aanleiding, voorstel, financiële impact, advies. Gebruik tussentitels."  
 > **T** — "Formeel en zakelijk, geschreven voor een college van burgemeester en schepenen."
 

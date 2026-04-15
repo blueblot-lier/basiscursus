@@ -8,11 +8,11 @@ Staat jouw team er niet bij of heb je een betere prompt? Voeg hem toe aan de [Pr
 
 ## Burgerzaken
 
-**Taak 1: Complexe procedure uitleggen aan een burger**
+**Taak 1: Complexe procedure uitleggen aan een klant**
 
 > **S** — "Ik ben medewerker bij Burgerzaken van de stad Lier en help een inwoner aan het loket."  
 > **T** — "Herschrijf de onderstaande tekst over [procedure, bijv. identiteitskaartvernieuwing] naar een korte, stapsgewijze uitleg."  
-> **A** — "Focus enkel op: wat moet de burger meebrengen, wat kost het, hoe lang duurt het en waar moet hij naartoe. Laat juridische voetnoten en interne codes weg."  
+> **A** — "Focus enkel op: wat moet de klant meebrengen, wat kost het, hoe lang duurt het en waar moet hij naartoe. Laat juridische voetnoten en interne codes weg."  
 > **R** — "Maximaal 5 stappen, elk in één zin. Klaar om af te drukken als loketfiche."  
 > **T** — "Helder en geduldig, toegankelijk voor iedereen."  
 >
@@ -195,7 +195,7 @@ Staat jouw team er niet bij of heb je een betere prompt? Voeg hem toe aan de [Pr
 > **T** — "Warm maar professioneel. Respectvol en zonder te betuttelen."
 
 !!! warning "Privacy bij welzijnsdossiers"
-    Voer **nooit** echte namen, rijksregisternummers of details uit een burgerdossier in Copilot in. Gebruik altijd placeholders zoals `[Naam]` of `[Cliënt A]`. Zie ook de module [Privacy & GDPR](../veiligheid/privacy.md).
+    Voer **nooit** echte namen, rijksregisternummers of details uit een klantdossier in Copilot in. Gebruik altijd placeholders zoals `[Naam]` of `[Cliënt A]`. Zie ook de module [Privacy & GDPR](../veiligheid/privacy.md).
 
 ---
 

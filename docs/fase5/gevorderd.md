@@ -35,7 +35,7 @@ Copilot wordt pas écht krachtig als je het koppelt aan jouw eigen stadsdocument
 > *"Lees [Reglement subsidies verenigingen] en geef me een checklist die ik kan gebruiken bij het beoordelen van een nieuwe aanvraag."*
 
 !!! warning "Documentgrootte en privacy"
-    Copilot kan grote documenten verwerken, maar werkt het nauwkeurigst met documenten onder 50 pagina's. Bij zeer lange documenten: werk in secties of vraag naar een specifiek hoofdstuk. Voeg nooit documenten toe die persoonsgegevens van burgers bevatten — zie [Privacy & GDPR](../veiligheid/privacy.md).
+    Copilot kan grote documenten verwerken, maar werkt het nauwkeurigst met documenten onder 50 pagina's. Bij zeer lange documenten: werk in secties of vraag naar een specifiek hoofdstuk. Voeg nooit documenten toe die persoonsgegevens van klanten bevatten — zie [Privacy & GDPR](../veiligheid/privacy.md).
 
 ---
 
@@ -86,7 +86,7 @@ Neem nooit zomaar genoegen met het eerste antwoord. De kracht van Copilot zit in
 - **Bouw verder** op wat goed is: *"De structuur klopt, maar de toon is te formeel. Herschrijf enkel de eerste alinea warmer."*
 - **Wees specifiek** over wat niet klopt: niet *"dit is niet goed"* maar *"de tweede alinea herhaalt wat al in de inleiding staat — schrap die herhaling."*
 - **Vraag om alternatieven:** *"Geef me drie verschillende versies van de openingszin. Eén formeel, één vriendelijk, één prikkelend."*
-- **Test grenzen:** *"Wat als we dit vanuit het perspectief van de burger schrijven in plaats van vanuit de stad?"*
+- **Test grenzen:** *"Wat als we dit vanuit het perspectief van de klant schrijven in plaats van vanuit de stad?"*
 
 **Voorbeeld van een iteratiecyclus:**
 

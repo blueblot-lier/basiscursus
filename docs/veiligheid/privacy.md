@@ -5,11 +5,11 @@ Copilot is een veilige, interne tool. In tegenstelling tot de openbare ChatGPT, 
 Toch werken we dagelijks met extreem gevoelige gegevens van onze inwoners. Omdat een foutje met AI snel gemaakt is, hanteren we als stadsbestuur altijd het **Zero-Risk principe**.
 
 ## De gouden regel
-**Voer nooit persoonsgebonden of vertrouwelijke gegevens in als prompt.** AI is fantastisch voor het verwerken van algemene teksten, maar het is géén tool om individuele burgerdossiers mee te analyseren.
+**Voer nooit persoonsgebonden of vertrouwelijke gegevens in als prompt.** AI is fantastisch voor het verwerken van algemene teksten, maar het is géén tool om individuele klantendossiers mee te analyseren.
 
 ### Wat mag er absoluut NIET in Copilot?
 * **Rijksregisternummers** of identiteitskaartgegevens.
-* **Namen, adressen of contactgegevens** van burgers gekoppeld aan specifieke dossiers.
+* **Namen, adressen of contactgegevens** van klanten gekoppeld aan specifieke dossiers.
 * **Medische, financiële of juridische gegevens** (bijv. OCMW-dossiers, schuldhulpverlening, jeugdzorg).
 * **Vertrouwelijke beleidsdocumenten** die nog niet publiek zijn of nog goedgekeurd moeten worden door het schepencollege.
 * **Wachtwoorden** of inloggegevens van interne systemen.

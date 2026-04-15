@@ -47,15 +47,15 @@ Geeft het resultaat niet helemaal wat je wil? Stuur bij in dezelfde chat — je 
 
 ---
 
-## 3. Antwoord op een burgervraag formuleren
+## 3. Antwoord op een klantvraag formuleren
 
-**Het probleem:** Een burger stelt een vraag over regelgeving, procedures of een dossier. Je weet het antwoord maar wil het helder en vriendelijk formuleren.
+**Het probleem:** Een klant stelt een vraag over regelgeving, procedures of een dossier. Je weet het antwoord maar wil het helder en vriendelijk formuleren.
 
 **De prompt:**
 
 > **S** — "Ik ben medewerker bij [team] van de stad Lier en beantwoord een vraag van een inwoner."  
-> **T** — "Schrijf een duidelijk en vriendelijk antwoord op de onderstaande vraag van een burger."  
-> **A** — "Houd het concreet en praktisch. Vermeld de volgende informatie: [vul in wat de burger moet weten]. Verwijs naar [website/telefoonnummer/loket] voor verdere vragen. Maak geen beloftes die je niet kunt nakomen."  
+> **T** — "Schrijf een duidelijk en vriendelijk antwoord op de onderstaande vraag van een klant."  
+> **A** — "Houd het concreet en praktisch. Vermeld de volgende informatie: [vul in wat de klant moet weten]. Verwijs naar [website/telefoonnummer/loket] voor verdere vragen. Maak geen beloftes die je niet kunt nakomen."  
 > **R** — "Kort antwoord van maximaal 3 alinea's, klaar om te versturen als e-mail."  
 > **T** — "Vriendelijk, helder en behulpzaam. Taalniveau B1."  
 
@@ -107,12 +107,12 @@ Geeft het resultaat niet helemaal wat je wil? Stuur bij in dezelfde chat — je 
 
 ## 7. Tekst vertalen of aanpassen voor een andere doelgroep
 
-**Het probleem:** Je hebt een tekst voor interne communicatie maar moet hem ook publiceren voor burgers, of omgekeerd.
+**Het probleem:** Je hebt een tekst voor interne communicatie maar moet hem ook publiceren voor klanten, of omgekeerd.
 
 **De prompt:**
 
 > **S** — "Ik ben communicatiemedewerker bij de stad Lier."  
-> **T** — "Pas de onderstaande tekst aan voor [nieuwe doelgroep: burgers / raadsleden / pers / medewerkers]."  
+> **T** — "Pas de onderstaande tekst aan voor [nieuwe doelgroep: klanten / raadsleden / pers / medewerkers]."  
 > **A** — "De kernboodschap blijft dezelfde. Pas het taalgebruik, de toon en het detailniveau aan voor de nieuwe doelgroep. [Eventuele specifieke instructies]."  
 > **R** — "Zelfde lengte als de originele tekst, tenzij anders aangegeven."  
 > **T** — "[Formeel / vriendelijk / journalistiek / toegankelijk]."  
@@ -127,7 +127,7 @@ Geeft het resultaat niet helemaal wat je wil? Stuur bij in dezelfde chat — je 
 |---|---|
 | Vergaderingsverslag | *"Verwerk deze ruwe notities naar een verslag met besproken punten, beslissingen en actiepunten."* |
 | Bewonersbrief B1 | *"Herschrijf deze tekst naar B1-niveau: korte zinnen, geen jargon, opsomming voor praktische info."* |
-| Burgervraag beantwoorden | *"Schrijf een vriendelijk en concreet antwoord op deze vraag van een inwoner."* |
+| Klantvraag beantwoorden | *"Schrijf een vriendelijk en concreet antwoord op deze vraag van een inwoner."* |
 | Document samenvatten | *"Vat dit rapport samen: conclusies, financiële impact en actiepunten. Max 5 bulletpoints."* |
 | Brainstormen | *"Bedenk 5 ideeën voor [project]. Per idee: titel, beschrijving en inschatting middelen."* |
 | Interne nota | *"Schrijf een interne nota aan [ontvanger] over [onderwerp]. Kernpunten: [...]."* |

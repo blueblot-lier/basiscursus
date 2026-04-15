@@ -54,7 +54,7 @@ Je hebt al een beleidsnota, rapport of bewonersbrief in Word. Copilot zet die om
 
 **Tip:** Geef daarna nog een gerichte opdracht:
 
-> *"De presentatie is goed, maar te lang. Verwijder de slides over de technische specificaties en houd enkel de slides over voor de burger relevant zijn."*
+> *"De presentatie is goed, maar te lang. Verwijder de slides over de technische specificaties en houd enkel de slides over voor de klant relevant zijn."*
 
 ---
 
