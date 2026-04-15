@@ -8,7 +8,7 @@ Geen taaie theorie, geen IT-jargon. Wel concrete voorbeelden uit onze eigen stad
 
 ## Doel van de cursus
 
-Copilot kan je helpen om sneller een brief op te stellen, een lang verslag samen te vatten, een vergadering voor te bereiden of een moeilijke e-mail te formuleren. Maar dan moet je wel weten hóé je ermee praat.
+Copilot kan je helpen om sneller een brief op te stellen, een lang verslag samen te vatten, een vergadering voor te bereiden of een moeilijke e-mail te formuleren. Maar dan moet je wel weten hóé je ermee praat...
 
 Dat is precies wat deze cursus je leert: **de juiste opdrachten geven zodat Copilot doet wat jij wil** — en niet iets dat er vaag op lijkt.
 
