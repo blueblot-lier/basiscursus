@@ -95,7 +95,7 @@ Je moet een overleg leiden of een presentatie geven en wil je goed voorbereiden.
 
 **Voorbeeldprompt:**
 
-> **S** — "Ik ben diensthoofd bij de stad Lier en leid volgende week een teamoverleg van 1 uur met 8 collega's."  
+> **S** — "Ik ben leidinggevende bij de stad Lier en leid volgende week een teamoverleg van 1 uur met 8 collega's."  
 > **T** — "Stel een agenda op voor dit overleg."  
 > **A** — "We moeten de volgende punten bespreken: opvolging actiepunten vorige vergadering, planning zomerverlof, stand van zaken nieuw registratiesysteem, en varia. Zorg voor voldoende tijd voor discussie."  
 > **R** — "Agenda met tijdsblokken per punt en een korte beschrijving van het doel van elk agendapunt."  

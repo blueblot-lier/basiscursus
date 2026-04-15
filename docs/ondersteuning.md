@@ -5,7 +5,7 @@ Je bent nu helemaal klaar om de vruchten te plukken van Copilot! Maar leren stop
 ## Jouw AI-ambassadeurs
 Op elke stadsdienst lopen één of meerdere 'AI-Ambassadeurs' rond. Dit zijn collega's die net wat dieper in de materie zitten en speciaal zijn opgeleid om jou te helpen.
 * **Wanneer schakel je ze in?** Als je prompt niet de gewenste output levert, als je wil brainstormen over een nieuwe use-case voor je afdeling, of als je twijfelt over de privacy van een opdracht.
-* **Wie zijn het?** Vraag ernaar bij je diensthoofd, of check de actuele lijst met ambassadeurs op ons intranet.
+* **Wie zijn het?** Vraag ernaar bij je leidinggevende, of check de actuele lijst met ambassadeurs op ons intranet.
 
 ## De SharePoint promptbibliotheek
 Heb je zelf een 'gouden prompt' ontdekt die je wekelijks uren tijd bespaart? Houd hem niet voor jezelf! 

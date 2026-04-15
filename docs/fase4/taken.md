@@ -93,7 +93,7 @@ Geeft het resultaat niet helemaal wat je wil? Stuur bij in dezelfde chat — je 
 
 ## 6. Interne nota of e-mail opstellen
 
-**Het probleem:** Je moet een collega, diensthoofd of schepen informeren over een beslissing, probleem of voortgang — maar weet niet goed hoe je het formuleert.
+**Het probleem:** Je moet een collega, leidinggevende of schepen informeren over een beslissing, probleem of voortgang — maar weet niet goed hoe je het formuleert.
 
 **De prompt:**
 
