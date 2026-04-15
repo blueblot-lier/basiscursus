@@ -59,7 +59,7 @@ Copilot zegt nooit *"Ik weet het niet."* In plaats daarvan genereert het een ant
 ### Wat doe je als je twijfelt?
 
 1. **Stel een controlevraag** in dezelfde chat: *"Ben je zeker van dit antwoord? Wat is je bron?"* Copilot geeft soms zelf aan dat het onzeker is.
-2. **Verifieer via een betrouwbare bron**: de officiële wetgeving, het intranet, of een vakkundige collega.
+2. **Verifieer via een betrouwbare bron**: de officiële wetgeving, LIN, of een vakkundige collega.
 3. **Pas de prompt aan**: geef meer context of voeg het juiste brondocument toe zodat Copilot minder moet "raden".
 
 ---

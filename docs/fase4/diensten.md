@@ -88,7 +88,7 @@ Staat jouw dienst er niet bij of heb je een betere prompt? Voeg hem toe aan de [
 
 > **S** — "Ik ben HR-medewerker bij de stad Lier en verwelkom een nieuwe collega."  
 > **T** — "Schrijf een onthaalbrief voor een nieuwe medewerker die start als [functie] bij [dienst]."  
-> **A** — "Vermeld: startdatum, waar hij/zij zich moet melden, bij wie, en wat hij/zij de eerste dag kan verwachten. Verwijs naar het onthaalbeleid op het intranet."  
+> **A** — "Vermeld: startdatum, waar hij/zij zich moet melden, bij wie, en wat hij/zij de eerste dag kan verwachten. Verwijs naar het onthaalbeleid op LIN."  
 > **R** — "Informele brief van maximaal 3 alinea's."  
 > **T** — "Warm en verwelkomend, de medewerker moet zich meteen op zijn gemak voelen."
 

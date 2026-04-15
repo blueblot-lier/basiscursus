@@ -5,7 +5,7 @@ Lezen over Copilot is nuttig, maar je leert het pas écht door het zelf te doen.
 Vergeet niet je resultaten kritisch te bekijken en de opdrachten ('prompts') aan te passen als je niet helemaal tevreden bent!
 
 ## 🏋️‍♀️ Oefening 1: de grote samenvatting
-Zoek op het intranet of in je eigen bestanden een lang, openbaar beleidsdocument of verslag op (minimaal 5 pagina's). Zorg dat er geen vertrouwelijke persoonsgegevens in staan.
+Zoek op LIN of in je eigen bestanden een lang, openbaar beleidsdocument of verslag op (minimaal 5 pagina's). Zorg dat er geen vertrouwelijke persoonsgegevens in staan.
 
 **Jouw missie:**
 Vraag Copilot om dit document voor jou te lezen en de essentie eruit te halen.
